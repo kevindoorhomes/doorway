@@ -17,11 +17,13 @@
 Dress code is business casual for both men and women.
 
 * Women
+
   * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
   * Hair should be clean and brushed.
   * Makeup should be neat and professional.
 
 * Men
+
   * Wear a button down, paired with khakis, or dress pants.
   * Layer with v-neck sweater, a blazer, or a sport coat during colder months.
   * Neutral, professional closed toed shoes.
@@ -29,7 +31,24 @@ Dress code is business casual for both men and women.
   * No Polos.
 
 * A somewhat casual Friday
-  * 
+  * a
+
+* Women
+  * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
+  * Hair should be clean and brushed.
+  * Makeup should be neat and professional.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
