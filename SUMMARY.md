@@ -11,9 +11,11 @@
 * [Buyers Agent](buyers-agent.md)
 * [Misc.](misc.md)
   * [Acronyms](misc/acronyms.md)
-  * [F.A.Q Client Manager](misc/faq-client-manager.md)
   * [F.A.Q Field Agent](misc/faq-field-agent.md)
   * [F.A.Q Transaction Coordinator](misc/faq-transaction-coordinator.md)
   * [F.A.Q Listing Agent](misc/faq-listing-agent.md)
-  * F.A.Q Buyers Agent
+  * [F.A.Q Buyers Agent](misc/faq-buyers-agent.md)
+  * [F.A.Q](misc/faq.md)
+    * [Test](misc/faq/test.md)
+  * [F.A.Q Client Manager](misc/faq/faq-buyers-agent.md)
 
