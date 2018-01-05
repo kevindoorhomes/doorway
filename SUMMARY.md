@@ -4,6 +4,7 @@
   * [First Day](first-day.md)
   * [Office Guidelines](office-rules.md)
   * [Organization Chart](organization-chart.md)
+  * [Job Functions](job-functions.md)
 * [Client Manager](client-manager.md)
 * [Field Agent](field-agent.md)
 * [Transaction Coordinator](transaction-coordinator.md)
