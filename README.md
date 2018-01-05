@@ -18,7 +18,7 @@ Here are just a few quick tips on how to use this book!
 
 ![](/assets/Search Button.png)
 
-* **Hate serif? No worries you can sans serif, you can change several book settings such as font size, font, and display theme.**
+* **Hate serif? No worries you can sans serif, you can also change several book settings such as font size, font, and display theme.**
 
 ![](/assets/Change Font.png)
 
