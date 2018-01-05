@@ -2,10 +2,8 @@
 
 * [Welcome to Door!](README.md)
   * [First Day](first-day.md)
-  * [Office Rules](office-rules.md)
-  * [Office Guidelines](office-guidelines.md)
+  * [Office Guidelines](office-rules.md)
   * [Organization Chart](organization-chart.md)
-  * [Office Guidelines](office-guidelines.md)
 * [Client Manager](client-manager.md)
 * [Field Agent](field-agent.md)
 * [Transaction Coordinator](transaction-coordinator.md)
