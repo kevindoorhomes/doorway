@@ -1,4 +1,4 @@
-# Here's a list of all the acronyms used at Door!
+# Here's a list of some commonly used acronyms here at Door!
 
 | Acronym | Definition |
 | :---: | :---: |
