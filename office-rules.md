@@ -12,43 +12,23 @@
   * Notify your team at least two weeks in advance so that scheduling can be adjusted.
   * Notify your client within three business days prior to the vacation.
 
-## Dress Code
+### Dress Code
 
 Dress code is business casual for both men and women.
 
 * Women
-
   * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
-  * Hair should be clean and brushed.
   * Makeup should be neat and professional.
-
+  * Hair should be clean and brushed.
 * Men
-
   * Wear a button down, paired with khakis, or dress pants.
   * Layer with v-neck sweater, a blazer, or a sport coat during colder months.
   * Neutral, professional closed toed shoes.
   * Clean and brushed hair are expected.
   * No Polos.
-
 * A somewhat casual Friday
-  * a
-
-* Women
-  * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
-  * Hair should be clean and brushed.
-  * Makeup should be neat and professional.
-
-
-
-
-
-
-
-
-
-
-
-
+  * Jeans and a nice top are acceptable.
+  * Attire still must be office appropriate \(ex. no ripped jeans\).
 
 
 
