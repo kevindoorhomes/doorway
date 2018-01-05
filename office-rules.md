@@ -27,13 +27,11 @@ Dress code is business casual for both men and women.
   * Neutral, professional closed toed shoes.
   * Clean and brushed hair are expected.
   * No Polos.
+
 * A somewhat casual Friday
-  * Dark jeans and a nice top are acceptable.
-  * Attire is still expected to be office appropriate \(no ripped jeans\).
+  * 
 
 
-
-## 
 
 
 
