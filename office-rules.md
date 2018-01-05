@@ -4,8 +4,6 @@
 
 * Standard office hours are Monday - Friday 9:30am - 6:30pm.
 
----
-
 ### Paid Time Off
 
 * All employees at Door receive 20 days of paid time off every 12 months. 
@@ -22,6 +20,7 @@ Dress code is business casual for both men and women.
   * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
   * Hair should be clean and brushed.
   * Makeup should be neat and professional.
+
 * Men
   * Wear a button down, paired with khakis, or dress pants.
   * Layer with v-neck sweater, a blazer, or a sport coat during colder months.
@@ -31,6 +30,8 @@ Dress code is business casual for both men and women.
 * A somewhat casual Friday
   * Dark jeans and a nice top are acceptable.
   * Attire is still expected to be office appropriate \(no ripped jeans\).
+
+
 
 ## 
 
