@@ -22,7 +22,8 @@
     * [Dropbox](first-day/dropbox.md)
     * [Ringcentral](first-day/ringcentral.md)
     * [Applications](first-day/applications.md)
-    * Transaction Room
+    * [Transaction Room](first-day/transaction-room.md)
+    * [WeWork](first-day/wework.md)
   * [F.A.Q Field Agent](misc/faq-field-agent.md)
   * [F.A.Q Transaction Coordinator](misc/faq-transaction-coordinator.md)
   * [F.A.Q Listing Agent](misc/faq-listing-agent.md)
