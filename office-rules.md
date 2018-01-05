@@ -18,7 +18,7 @@ Dress code is business casual for both men and women.
 
 * Women
   * A professional skirt, dress or dress pants paired with a blouse and heels, dressy flats, or boots/booties.
-  * Makeup should be neat and professional.
+    * Makeup should be neat and professional.
   * Hair should be clean and brushed.
 * Men
   * Wear a button down, paired with khakis, or dress pants.
