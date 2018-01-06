@@ -1,6 +1,6 @@
 ## Summary of job functions
 
-##### Client Managers
+##### Client Managers:
 
 
 
