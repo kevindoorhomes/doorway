@@ -23,7 +23,7 @@
 
 * Enroll in the payroll system
 * Sign up for the corporate credit card
-* Move existing real estate license to Door
+* If you have an existing real estate move it to license to Door
   * Log on to [trec.texas.gov](https://www.trec.texas.gov)
   * Fill in photos of tutorial
 * Set up ZipForm Templates
