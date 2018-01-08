@@ -1,6 +1,6 @@
 ![](/assets/door-logo-black-small.png)
 
-# Welcome to door! Savannah
+# Welcome to door! 
 
 Please use this e-book as your primary training document.
 
