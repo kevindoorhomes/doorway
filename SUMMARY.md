@@ -1,10 +1,11 @@
 # Summary
 
 * [Welcome to Door!](README.md)
-  * [First Day](first-day.md)
-  * [Office Guidelines](office-rules.md)
+  * [Door Overview](door-overview.md)
   * [Organization Chart](organization-chart.md)
   * [Job Functions](job-functions.md)
+  * [Office Guidelines](office-rules.md)
+  * [First Day](first-day.md)
 * [Client Manager](client-manager.md)
 * [Field Agent](field-agent.md)
 * [Transaction Coordinator](transaction-coordinator.md)

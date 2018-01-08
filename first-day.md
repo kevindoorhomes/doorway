@@ -10,6 +10,7 @@
 * Sign up for [Docusign](/first-day/docusign.md)  
 * Sign up for [Transaction Room](/first-day/transaction-room.md)  
 * Sign up for [Slack](/first-day/slack.md)  
+  * Ask your team lead to add you to the following Slack Channels: @employees, \#general, \#research, \#retargetting
 * Sigh up for [Expensify](/first-day/expensify.md)  
 * Sign up for [Dropbox](/first-day/dropbox.md)  
 * Sign up for [Ringcentral](/first-day/ringcentral.md)  
@@ -23,9 +24,18 @@
 
 * Enroll in the payroll system
 * Sign up for the corporate credit card
-* If you have an existing real estate move it to license to Door
-  * Log on to [trec.texas.gov](https://www.trec.texas.gov)
-  * Fill in photos of tutorial
+* New or Existing License holders need to update their sponsorship to relfect Door Texas Realty, LLC as your sponsorsing broker.
+  * Pre-exisiting license holders can access the sponsorship transfer form [here](https://www.trec.texas.gov/forms/sales-agent-sponsorship-form-1).
+  * Login to TREC
+  * Select "Manage My Sponsorship \(Sales\)" under "Change your license information and manage relationships"
+
+  ![](/assets/Screen Shot 2018-01-08 at 3.41.23 PM.png)
+  * Search for Door using license \#9004678
+
+  ![](/assets/Screen Shot 2018-01-08 at 3.45.01 PM.png)
+  * Follow prompts on the screen to complete license transfer. 
+  * Email transfer form to membership@dfwre.com
+
 * Set up ZipForm Templates
   * Need to follow up 
 

@@ -1,8 +1,8 @@
 ![](/assets/door-logo-black-small.png)
 
-# Welcome to door! 
+# Welcome to Door!
 
-Please use this e-book as your primary training document.
+We are so glad you're here! Please use this e-book as your primary training document.
 
 Here are just a few quick tips on how to use this book!
 
