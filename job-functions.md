@@ -8,15 +8,21 @@ The CMs also oversee the Task Management Process throughout the office. This inc
 
 ##### Field Agents:
 
-The field agents are often the first Door face that a client meets. They are boots-to-the-ground, out in the field, winning over potential clients. Their main role is to attend listing presentations as they educate interested sellers on just how awesome Door is. The listing presentation is Door's way of first impressing a client with all we have to offer. They use their knowledge of the real estate market as they guide prospects through the seller portal and help them settle on a value for their home. 
+The field agents are often the first Door face that a client meets. They are boots-to-the-ground, out in the field, winning over potential clients. Their main role is to attend listing presentations as they educate interested sellers on just how awesome Door is. The listing presentation is Door's way of first impressing a client with all we have to offer. They use their knowledge of the real estate market as they guide prospects through the seller portal and help them settle on a value for their home. The Field Agents partner with our valuation department \(see transaction services\) to determine the fair market value of their property.
 
-Once they leave a presentation, they are diligent about following up with clients until they are ready to sign their Listing Agreement. 
+Once they leave a presentation, they are diligent about client follow-up until they are ready to sign their Listing Agreement. Once the listing agreement is signed, the client is contact by our onboarding department.
 
-##### Onboarding:
+##### Transaction Services:
+
+Valuation: Using knowledge of the real estate market, comparable properties, and a detailed algorithm, our valuation team determines the price range a home should be listed it. The field agents leverage this information during the listing presentation since listing a home accuartely from the beginning is an important factor in a successful listing.
+
+Onboarding: Our onboarding team handles the details that go into getting a listing ready to go live in the MLS. Our transaction coordinators collect and file client forms, coordinate staging and photography appointments, and do the initial input of listings into the MLS. Once a listing has completed it's onboarding tasks, it is ready to go live and is transferred to the hands of a listing agent.
 
 ##### Listing Agents:
 
+Listing Agents manage transactions from listing the property on the MLS through closing. 
+
 ##### Buyer's Agents:
 
-
+Buyer's Agents assist buyers from showings homes, through negotiations and closing on a property. 
 
