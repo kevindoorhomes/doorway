@@ -23,7 +23,7 @@
 **Administrative items:**
 
 * Enroll in the payroll system, Namely.
-* Sign up for the corporate credit card.
+
 * Sign up for Door's automotive insurance to be eligible to drive the Door cars.
 
 * New or Existing License holders need to update their sponsorship to relfect Door Texas Realty, LLC as your sponsorsing broker.
@@ -38,7 +38,7 @@
 
   ![](/assets/Screen Shot 2018-01-08 at 3.45.01 PM.png)
 
-  * Request sponsorship/
+  * Request sponsorship.
   * Follow prompts on the screen to complete license transfer. 
   * Email transfer form to membership@dfwre.com.
 

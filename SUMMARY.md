@@ -12,8 +12,8 @@
   * [Valuation](transaction-coordinator/valuation.md)
   * [Onboarding](transaction-coordinator/onboarding.md)
 * [Listing Agent](listing-agent.md)
-  * Process Guide
-  * Daily Activities
+  * [Process Guide](listing-agent/process-guide.md)
+  * [Daily Activities](listing-agent/daily-activities.md)
 * [Buyers Agent](buyers-agent.md)
 * [Misc.](misc.md)
   * [Acronyms](misc/acronyms.md)
