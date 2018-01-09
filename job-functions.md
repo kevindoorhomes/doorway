@@ -16,13 +16,13 @@ Once they leave a presentation, they are diligent about client follow-up until t
 
 Valuation: Using knowledge of the real estate market, comparable properties, and a detailed algorithm, our valuation team determines the price range a home should be listed it. The field agents leverage this information during the listing presentation since listing a home accuartely from the beginning is an important factor in a successful listing.
 
-Onboarding: Our onboarding team handles the details that go into getting a listing ready to go live in the MLS. Our transaction coordinators collect and file client forms, coordinate staging and photography appointments, and do the initial input of listings into the MLS. Once a listing has completed it's onboarding tasks, it is ready to go live and is transferred to the hands of a listing agent.
+Onboarding: Our onboarding team, made up of Transaction Coordinators, handles the details that go into getting a listing ready to go live in the MLS. Our transaction coordinators collect and file client forms, coordinate staging and photography appointments, and do the initial input of listings into the MLS. Once a listing has completed it's onboarding tasks, it is ready to go live and is transferred to the hands of a listing agent.
 
 ##### Listing Agents:
 
-Listing Agents manage transactions from listing the property on the MLS through closing. They are experts in clients communication, managing expectations, negotiations, and handling the processes and documents that are involved in selling a home. In addition to their communication and negotiation skills, a certain element of attention to detail aids in the success of our Listing Agents. 
+Listing Agents manage transactions from listing the property on the MLS through closing. They are experts in clients communication, managing expectations, negotiations, and handling the processes and documents that are involved in selling a home. In addition to their communication and negotiation skills, a certain element of attention to detail aids in the success of our Listing Agents.
 
 ##### Buyer's Agents:
 
-Buyer's Agents assist buyers with everything from showings homes, through negotiations and closing on a property. Communication and negotiation skills are a must for our team of Buyer's Agents. Buyer's Agents provide their clients with the resources and confidence needed to navigate a real estate transaction. They act as professional advisors and support systems as they work with their clients to present desireable offers on potential propreties. 
+Buyer's Agents assist buyers with everything from showings homes, through negotiations and closing on a property. Communication and negotiation skills are a must for our team of Buyer's Agents. Buyer's Agents provide their clients with the resources and confidence needed to navigate a real estate transaction. They act as professional advisors and support systems as they work with their clients to present desireable offers on potential propreties.
 

@@ -29,9 +29,9 @@ Dress code is business casual for both men and women.
   * No Polos.
 * A somewhat casual Friday
   * Jeans and a nice top are acceptable.
-  * Attire still must be office appropriate \(ex. dark, non-ripped jeans\).
+  * Attire still must be office appropriate \(ex. dark jeans without rips\).
 
 ### Office Etiquette
 
-As we share an open office space, be mindful of sound level when communicating within the office or on the phone. Take advantage of the private spaces in close proximity to the office when making calls. Be aware of colleagues making client calls when have cross office conversations. 
+As we share an open office space, be mindful of sound level when communicating within the office or on the phone. Take advantage of the private spaces in close proximity to the office when making calls. Be aware of colleagues making client calls when have cross office conversations.
 

@@ -4,6 +4,8 @@
 
 We are so glad you're here! Please use this e-book as your primary training document.
 
+This is our Policies & Procedures Manual that will be your main source throughout your training at Door. Once training is through, it will act as a resource for any questions you might have about how we operate. Anything from simple procedural tasks, to scripts, to case studies can be found here. 
+
 Here are just a few quick tips on how to use this book!
 
 * **To read the book please click on the Read button.**
