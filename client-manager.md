@@ -4,13 +4,11 @@ The client managers are in charge of the creation and management of all leads. T
 
 The CMs also oversee the Task Management Process throughout the office. This includes making sure that each agent is current on their tasks and is filling out ProsperWorks fields accordingly.
 
-##### Sell Side: 
+##### Sell Side:
 
-Client Managers set-up initial Listing Presentations with potential clients and the Field Agents. 
+Client Managers set-up initial Listing Presentations with potential clients and the Field Agents.
 
-##### Buy Side: 
+##### Buy Side:
 
-Client Managers qualify incoming buyer leads, 
-
-
+Client Managers qualify incoming buyer leads to make sure potential buyers are pre-approved for a loan and not needing to sell before purchasing. Once a buyer lead is confirmed, they are then connected with a Buyer's Agent.
 

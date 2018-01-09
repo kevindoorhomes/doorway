@@ -33,5 +33,5 @@ Dress code is business casual for both men and women.
 
 ### Office Etiquette
 
-As we share an open office space, be mindful of sound level when communicating within the office or on the phone. Take advantage of the private spaces in close proximity to the office when making calls. Be aware of colleagues making client calls when have cross office conversations.
+As we share an open office space, be mindful of sound level when communicating within the office or on the phone. Take advantage of the private spaces in close proximity to the office when making calls. Be aware of colleagues making client calls when engaging in cross office conversations.
 

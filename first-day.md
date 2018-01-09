@@ -22,8 +22,8 @@
 
 **Administrative items:**
 
-* Enroll in the payroll system, Namely
-* Sign up for the corporate credit card
+* Enroll in the payroll system, Namely.
+* Sign up for the corporate credit card.
 * Sign up for Door's automotive insurance to be eligible to drive the Door cars.
 
 * New or Existing License holders need to update their sponsorship to relfect Door Texas Realty, LLC as your sponsorsing broker.
