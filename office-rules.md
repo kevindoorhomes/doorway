@@ -28,7 +28,11 @@ Dress code is business casual for both men and women.
   * No Polos.
 * A somewhat casual Friday
   * Jeans and a nice top are acceptable.
-  * Attire still must be office appropriate \(ex. no ripped jeans\).
+  * Attire still must be office appropriate \(ex. dark, non-ripped jeans\).
+
+### Office Etiquette
+
+
 
 
 
