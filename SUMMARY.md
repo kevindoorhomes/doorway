@@ -15,6 +15,8 @@
   * [Process Guide](listing-agent/process-guide.md)
   * [Daily Activities](listing-agent/daily-activities.md)
 * [Buyers Agent](buyers-agent.md)
+  * Process Guide
+  * Daily Activities
 * [Misc.](misc.md)
   * [Acronyms](misc/acronyms.md)
   * [Applications](first-day/applications.md)

@@ -1,4 +1,4 @@
 ![](/assets/door-logo-black-small.png)
 
-![](/assets/really long org chart.png)
+See Door Org Chart in [Namely](https://door.namely.com/people/org).
 
