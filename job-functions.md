@@ -20,9 +20,9 @@ Onboarding: Our onboarding team handles the details that go into getting a listi
 
 ##### Listing Agents:
 
-Listing Agents manage transactions from listing the property on the MLS through closing. 
+Listing Agents manage transactions from listing the property on the MLS through closing. They are experts in clients communication, managing expectations, negotiations, and handling the processes and documents that are involved in selling a home. In addition to their communication and negotiation skills, a certain element of attention to detail aids in the success of our Listing Agents. 
 
 ##### Buyer's Agents:
 
-Buyer's Agents assist buyers from showings homes, through negotiations and closing on a property. 
+Buyer's Agents assist buyers with everything from showings homes, through negotiations and closing on a property. Communication and negotiation skills are a must for our team of Buyer's Agents. Buyer's Agents provide their clients with the resources and confidence needed to navigate a real estate transaction. They act as professional advisors and support systems as they work with their clients to present desireable offers on potential propreties. 
 

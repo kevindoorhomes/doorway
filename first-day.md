@@ -1,6 +1,6 @@
-# I know you're excited to start making an impact, but there are several things we need to get sorted out first
+# I know you're excited to start making an impact, but there are several things we need to get sorted out first.
 
-**Download and and signup for the following apps:**
+**Download and signup for the following apps:**
 
 * Receive Door Email  
 * Sign up for [Dashlane](/first-day/dashlane.md)  
@@ -22,21 +22,28 @@
 
 **Administrative items:**
 
-* Enroll in the payroll system
+* Enroll in the payroll system, Namely
 * Sign up for the corporate credit card
+* Sign up for Door's automotive insurance to be eligible to drive the Door cars.
+
 * New or Existing License holders need to update their sponsorship to relfect Door Texas Realty, LLC as your sponsorsing broker.
+
   * Pre-exisiting license holders can access the sponsorship transfer form [here](https://www.trec.texas.gov/forms/sales-agent-sponsorship-form-1).
   * Login to TREC
   * Select "Manage My Sponsorship \(Sales\)" under "Change your license information and manage relationships"
 
   ![](/assets/Screen Shot 2018-01-08 at 3.41.23 PM.png)
+
   * Search for Door using license \#9004678
 
   ![](/assets/Screen Shot 2018-01-08 at 3.45.01 PM.png)
+
+  * Request sponsorship/
   * Follow prompts on the screen to complete license transfer. 
-  * Email transfer form to membership@dfwre.com
+  * Email transfer form to membership@dfwre.com.
 
 * Set up ZipForm Templates
+
   * Need to follow up 
 
 
