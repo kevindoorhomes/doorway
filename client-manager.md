@@ -1,14 +1,18 @@
-# Client Managers
+## Client Managers
 
-The client managers are in charge of the creation and management of all leads. The CMs must be organized and diligent in logging tasks and touching base with each lead accordingly. It is their job to see the lead process through from start to finish, with the end being the conversion of a lead into an opportunity and a reassignment of that lead to another Door agent.
+Client managers will field all inquiries to Door and manage the entire lead process. These inquiries will come from such sources as intercom \(the chatbox on the Door website\), KnockKnock \(contact email on the Door website\), phone calls, and listing presentation requests generated from the web form on the Door site.
 
-The CMs also oversee the Task Management Process throughout the office. This includes making sure that each agent is current on their tasks and is filling out ProsperWorks fields accordingly.
+Depending on whether the inquiry is for a buyer or seller, there is a separate process for each. As shown in the high level overview diagram below.
 
-##### Sell Side:
+![](/assets/CM Drawing most up to date.png)
 
-Client Managers set-up initial Listing Presentations with potential clients and the Field Agents.
+Whenever, a client manager recieves an inquiry that is not a listing presentation request, it is their responsibility to follow-up and gather as much information as possible about the potential client which includes email addresses, phone number, and whether they are pre-qualified for a loan. Once the client manager has cleared the client, they will enter the inquiry as a lead in Prosperworks. It is at this time that the lead will be classified as a buy or sell lead. Each lead will have a different team assigned to them depending on the physical location of the property in the region.
 
-##### Buy Side:
+Below is a sample regional map for the Dallas/Fort Worth metroplex, please refer to your local regional territory map. There is a separate team \(listing and field agent\) that service the blue regions and the orange regions.
 
-Client Managers qualify incoming buyer leads to make sure potential buyers are pre-approved for a loan and not needing to sell before purchasing. Once a buyer lead is confirmed, they are then connected with a Buyer's Agent.
+![](/assets/territory.png)
+
+If the client fills out a listing request form on the Door webpage, the client manager will go directly to scheduling a listing presentation.
+
+Please continue to the buy side or sell side subsections for client managers.
 
