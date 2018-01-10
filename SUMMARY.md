@@ -9,15 +9,15 @@
 * [Client Manager](client-manager.md)
   * [Client Manager: Sell Side](client-manager/client-manager-sell-side.md)
   * [Client Manager: Buy Side](client-manager/client-manager-buy-side.md)
+  * [Transaction Services](transaction-coordinator.md)
+    * [Valuation](transaction-coordinator/valuation.md)
+    * [Onboarding](transaction-coordinator/onboarding.md)
 * [Field Agent](field-agent.md)
-* [Transaction Services](transaction-coordinator.md)
-  * [Valuation](transaction-coordinator/valuation.md)
-  * [Onboarding](transaction-coordinator/onboarding.md)
 * [Listing Agent](listing-agent.md)
   * [Process Guide](listing-agent/process-guide.md)
   * [Daily Activities](listing-agent/daily-activities.md)
 * [Buyers Agent](buyers-agent.md)
-  * Process Guide
+  * [Process Guide](buyers-agent/process-guide.md)
   * Daily Activities
 * [Misc.](misc.md)
   * [Acronyms](misc/acronyms.md)
@@ -39,4 +39,5 @@
   * [F.A.Q Listing Agent](misc/faq-listing-agent.md)
   * [F.A.Q Buyers Agent](misc/faq-buyers-agent.md)
   * [F.A.Q Client Manager](misc/faq/faq-buyers-agent.md)
+  * [Common Real Estate Terms and Definitions](misc/common-real-estate-terms-and-definitions.md)
 

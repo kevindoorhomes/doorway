@@ -1,6 +1,6 @@
 # Field Agent
 
-Field Agent's primary role is to attend listing presentations that had been scheduled by the client managers and win business for Door. Below is a high level overview of the field agent role. 
+Field Agent's primary role is to attend listing presentations that had been scheduled by the client managers and win business for Door. Below is a high level overview of the field agent role.
 
 ![](/assets/Field Agent Chart-2.png)
 
@@ -14,7 +14,5 @@ During a listing presentation, the field agent will tour the house and present a
 * Show comparable houses in the subdivision and current market trends
 * Summary of the recommended selling price and money saved if the client decided to use Door
 
-After a listing presentation has been completed, the field agent will continue to follow up with the client until there is a mutual agreement to sign a listing agreement. The field agent will then use ZipForm to send an electronic listing agreement to the client. Once this agreement has been signed, the process will continue to the onboarding team.
-
-
+After a listing presentation has been completed, the field agent will continue to follow up with the client until there is a mutual agreement to sign a listing agreement. The field agent will then use ZipForm to send an electronic listing agreement to the client. Once this agreement has been signed, the process will continue to the [onboarding team](/transaction-coordinator/onboarding.md).
 
