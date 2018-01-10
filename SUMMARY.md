@@ -7,6 +7,8 @@
   * [Office Guidelines](office-rules.md)
   * [First Day](first-day.md)
 * [Client Manager](client-manager.md)
+  * [Client Manager: Sell Side](client-manager/client-manager-sell-side.md)
+  * [Client Manager: Buy Side](client-manager/client-manager-buy-side.md)
 * [Field Agent](field-agent.md)
 * [Transaction Services](transaction-coordinator.md)
   * [Valuation](transaction-coordinator/valuation.md)
