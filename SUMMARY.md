@@ -34,10 +34,10 @@
     * [Applications](first-day/applications.md)
     * [Transaction Room](first-day/transaction-room.md)
     * [WeWork](first-day/wework.md)
+  * [Common Real Estate Terms and Definitions](misc/common-real-estate-terms-and-definitions.md)
   * [F.A.Q Field Agent](misc/faq-field-agent.md)
   * [F.A.Q Transaction Coordinator](misc/faq-transaction-coordinator.md)
   * [F.A.Q Listing Agent](misc/faq-listing-agent.md)
   * [F.A.Q Buyers Agent](misc/faq-buyers-agent.md)
   * [F.A.Q Client Manager](misc/faq/faq-buyers-agent.md)
-  * [Common Real Estate Terms and Definitions](misc/common-real-estate-terms-and-definitions.md)
 
