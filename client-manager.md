@@ -2,7 +2,7 @@
 
 Client managers will field all inquiries to Door and manage the entire lead process. These inquiries will come from such sources as intercom \(the chatbox on the Door website\), KnockKnock \(contact email on the Door website\), phone calls, and listing presentation requests generated from the web form on the Door site.
 
-Depending on whether the inquiry is for a buyer or seller, there is a separate process for each. As shown in the high level overview diagram below.
+Depending on whether the inquiry is for a buyer or seller, there is a separate process for each. As shown in the high level client manager overview diagram below.
 
 ![](/assets/CM Drawing most up to date.png)
 
