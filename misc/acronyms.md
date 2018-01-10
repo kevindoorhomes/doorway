@@ -2,8 +2,11 @@
 
 | Acronym | Definition |
 | :---: | :---: |
+| CM | Client Manager |
+| FA | Field Agent |
 | CMA | Comparative Market Analysis |
 | LP | Listing Presentation |
+| LA | Listing Agent |
 
 
 
