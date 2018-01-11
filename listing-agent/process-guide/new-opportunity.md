@@ -23,7 +23,7 @@ Call your new clients to set up a time to meet them at their property. The best 
 * Confirm when they want to go live.
   * We need at least 24 hours for the pictures to be processed.
   * Communicate that listings will go live by the end of day on preferred listing date.
-* Confirm `CSS`showing instructions and ask about any special circumstances. 
+* Confirm [CSS ](/misc/acronyms.md)showing instructions and ask about any special circumstances. 
 
 
 

@@ -18,7 +18,7 @@
   * [Process Guide](listing-agent/process-guide.md)
     * [New Opportunity](listing-agent/process-guide/new-opportunity.md)
     * [Onboarding](listing-agent/process-guide/listing-live.md)
-    * Marketing
+    * [Marketing](listing-agent/process-guide/marketing.md)
     * Negotiation
     * Active Option
     * Pending
