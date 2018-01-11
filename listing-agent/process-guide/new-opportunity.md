@@ -2,7 +2,7 @@
 
 Your Team Lead will connect you to your clients for the first time via an Agent Introduction Email.
 
-&lt;screen grab&gt;
+![](/assets/Screen Shot 2018-01-11 at 3.20.20 PM.png)
 
 At this time, the opportunity will be assigned to you in [ProsperWorks.](/first-day/prosperworks.md)
 
@@ -23,7 +23,7 @@ Call your new clients to set up a time to meet them at their property. The best 
 * Confirm when they want to go live.
   * We need at least 24 hours for the pictures to be processed.
   * Communicate that listings will go live by the end of day on preferred listing date.
-* Confirm **`CSS `**showing instructions and ask about any special circumstances. 
+* Confirm `CSS`showing instructions and ask about any special circumstances. 
 
 
 
