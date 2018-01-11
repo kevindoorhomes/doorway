@@ -6,7 +6,7 @@ Your Team Lead will connect you to your clients for the first time via an Agent 
 
 At this time, the opportunity will be assigned to you in [ProsperWorks.](/first-day/prosperworks.md)
 
-&lt;screen grab&gt;
+![](/assets/Screen Shot 2018-01-11 at 4.04.40 PM.png)
 
 Call your new clients to set up a time to meet them at their property. The best time to do this is during the staging and 3D model appointment. If that is not a possibility do everything in your best efforts to schedule another time to view the property.
 
