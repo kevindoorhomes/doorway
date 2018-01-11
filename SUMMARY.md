@@ -16,6 +16,13 @@
 * [Listing Agent](listing-agent.md)
   * [Daily Activities](listing-agent/daily-activities.md)
   * [Process Guide](listing-agent/process-guide.md)
+    * [New Opportunity](listing-agent/process-guide/new-opportunity.md)
+    * [Onboarding](listing-agent/process-guide/listing-live.md)
+    * Marketing
+    * Negotiation
+    * Active Option
+    * Pending
+    * Closed
 * [Buyers Agent](buyers-agent.md)
   * [Process Guide](buyers-agent/process-guide.md)
   * [Daily Activities](buyers-agent/daily-activities.md)
