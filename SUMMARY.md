@@ -14,12 +14,12 @@
     * [Onboarding](transaction-coordinator/onboarding.md)
 * [Field Agent](field-agent.md)
 * [Listing Agent](listing-agent.md)
-  * [Daily Activities](listing-agent/daily-activities.md)
+  * [Daily Activities - Sell](listing-agent/daily-activities.md)
   * [Process Guide](listing-agent/process-guide.md)
     * [New Opportunity](listing-agent/process-guide/new-opportunity.md)
     * [Onboarding](listing-agent/process-guide/listing-live.md)
     * [Marketing](listing-agent/process-guide/marketing.md)
-    * Negotiation
+    * [Negotiation](listing-agent/process-guide/negotiation.md)
     * Active Option
     * Pending
     * Closed
