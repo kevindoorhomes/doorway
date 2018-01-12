@@ -32,7 +32,7 @@ Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/id
 
 Outline the critical details and log them as an offer in ProsperWorks. Make the first line of the log read: Offer 1 - B Buyer - Date
 
-![](/assets/Screen Shot 2018-01-12 at 3.08.59 PM.png)
+![](/assets/Screen Shot 2018-01-12 at 4.49.13 PM.png)
 
 Include any additional details that may pertain to a specific offer. ie: leaseback option, HOA transfer contribution, etc.
 
