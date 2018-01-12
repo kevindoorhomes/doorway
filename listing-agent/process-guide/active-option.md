@@ -8,7 +8,13 @@ First, a few house keeping items:
 
 ![](/assets/Screen Shot 2018-01-12 at 4.44.36 PM.png)
 
-In the left hand column in ProsperWorks, fully fill out the critical dates: 
+In the left hand column in ProsperWorks, fully fill out the critical dates: Option Expiration Date, Financing Expiration Date, Close Date, Survey Due Date, HOA Due Date, etc. 
 
+![](/assets/Screen Shot 2018-01-12 at 4.50.22 PM.png)
 
+**File the Fully Executed Contract in DropBox.**
+
+Active &gt; Property Address &gt; Contract &gt; Receipted Contract 
+
+\*If the contract is not yet receipted, create an FE Contract folder 
 
