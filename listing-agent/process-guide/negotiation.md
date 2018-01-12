@@ -18,11 +18,11 @@ Search for your listing and click on the offer tab at the top.
 
 ![](/assets/offer tab.png)
 
-Fill out all critical details and attach offer documents. For more detail information about where this information comes from, see our contract break down.
+Fill out all critical details and attach offer documents. For more detail information about where this information comes from, see our [contract break down](/listing-agent/process-guide/negotiation/contract-break-down.md).
 
 &lt;Screen grabs&gt;
 
-Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to help you estimate the title fees. 
+Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to help you estimate the title fees.
 
 Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/idp/Authn/UserPassword)to estimate taxes and their loan payment. This [amortization calculator](http://www.amortization-calc.com/) is a huge help with that!
 
