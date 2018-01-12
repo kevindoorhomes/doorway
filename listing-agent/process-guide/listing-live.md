@@ -36,7 +36,7 @@ Enter the listing live date and add the MLS number in the opportunity.
 
 Use the following format: 123 Main St. is live
 
-&lt;screen grab&gt;
+![](/assets/Screen Shot 2018-01-12 at 10.11.48 AM.png)
 
 **Move the property's folder in DropBox from the "Listing Presentation" folder to the "Active" folder.**
 
