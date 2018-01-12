@@ -14,5 +14,13 @@ Use the [Door](https://doorhomes.com/) Seller's Portal to present offers to your
 
 ![](/assets/Screen Shot 2018-01-12 at 12.13.30 PM.png)
 
+Search for your listing and click on the offer tab at the top.
 
+![](/assets/offer tab.png)
+
+Fill out all critical details and the net sheet. 
+
+&lt;Screen grabs&gt;
+
+Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to get an estimate for the title fees. 
 
