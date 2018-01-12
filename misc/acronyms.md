@@ -11,7 +11,7 @@
 | LP | Listing Presentation |
 | LA | Listing Agent |
 | MLS | Multiple Listing Service |
-|  |  |
+| TAR | Texas Association of Realtors |
 
 
 

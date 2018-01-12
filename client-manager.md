@@ -14,5 +14,5 @@ Below is a sample regional map for the Dallas/Fort Worth metroplex, please refer
 
 If the client fills out a listing request form on the Door webpage, the client manager will go directly to scheduling a listing presentation.
 
-Please continue to the buy side or sell side subsections for client managers.
+Please continue to the [buy side](/client-manager/client-manager-buy-side.md) or [sell side](/client-manager/client-manager-sell-side.md) subsections for client managers.
 

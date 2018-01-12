@@ -1,10 +1,10 @@
 # Onboarding Your Listing
 
-Our Transaction Coordinators do most of the [MLS](/misc/acronyms.md) input. As the Listing Agent, you will need to complete a few tasks before setting the listing to Active.
+Our Transaction Coordinators do most of the MLS input. As the Listing Agent, you will need to complete a few tasks before setting the listing to Active.
 
 **Write the Property Description: **
 
-The property description is the blurb that goes into the [MLS](/misc/acronyms.md) and onto real estate websites like Zillow, Trulia, and Realtor.com. When writing the property description there are a few things to be careful of.
+The property description is the blurb that goes into the MLS and onto real estate websites like Zillow, Trulia, and Realtor.com. When writing the property description there are a few things to be careful of.
 
 * Make sure the information about the home is accurate. Cross reference the seller's residential [input form](http://www.ntreis.net/documents/Forms_1382014171531.pdf). 
 * It is crown moulding - not molding.

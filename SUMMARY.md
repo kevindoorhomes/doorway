@@ -9,9 +9,9 @@
 * [Client Manager](client-manager.md)
   * [Client Manager: Sell Side](client-manager/client-manager-sell-side.md)
   * [Client Manager: Buy Side](client-manager/client-manager-buy-side.md)
-  * [Transaction Services](transaction-coordinator.md)
-    * [Valuation](transaction-coordinator/valuation.md)
-    * [Onboarding](transaction-coordinator/onboarding.md)
+* [Transaction Services](transaction-coordinator.md)
+  * [Valuation](transaction-coordinator/valuation.md)
+  * [Onboarding](transaction-coordinator/onboarding.md)
 * [Field Agent](field-agent.md)
 * [Listing Agent](listing-agent.md)
   * [Daily Activities - Sell](listing-agent/daily-activities.md)
@@ -20,9 +20,9 @@
     * [Onboarding](listing-agent/process-guide/listing-live.md)
     * [Marketing](listing-agent/process-guide/marketing.md)
     * [Negotiation](listing-agent/process-guide/negotiation.md)
-    * Active Option
-    * Pending
-    * Closed
+    * [Active Option](listing-agent/process-guide/active-option.md)
+    * [Pending](listing-agent/process-guide/pending.md)
+    * [Closed](listing-agent/process-guide/closed.md)
 * [Buyers Agent](buyers-agent.md)
   * [Process Guide](buyers-agent/process-guide.md)
   * [Daily Activities](buyers-agent/daily-activities.md)
