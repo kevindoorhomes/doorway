@@ -12,5 +12,7 @@ Use the [Door](https://doorhomes.com/) Seller's Portal to present offers to your
 
 ![](/assets/Screen Shot 2018-01-12 at 12.05.23 PM.png)Select the Deals tab from the menu on the right.
 
- ![](/assets/Screen Shot 2018-01-12 at 12.13.30 PM.png)
+![](/assets/Screen Shot 2018-01-12 at 12.13.30 PM.png)
+
+
 
