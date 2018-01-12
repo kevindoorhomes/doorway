@@ -20,6 +20,7 @@
     * [Onboarding](listing-agent/process-guide/listing-live.md)
     * [Marketing](listing-agent/process-guide/marketing.md)
     * [Negotiation](listing-agent/process-guide/negotiation.md)
+      * [Contract Break Down](listing-agent/process-guide/negotiation/contract-break-down.md)
     * [Active Option](listing-agent/process-guide/active-option.md)
     * [Pending](listing-agent/process-guide/pending.md)
     * [Closed](listing-agent/process-guide/closed.md)

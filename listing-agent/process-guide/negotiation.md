@@ -18,11 +18,11 @@ Search for your listing and click on the offer tab at the top.
 
 ![](/assets/offer tab.png)
 
-Fill out all critical details and the net sheet.
+Fill out all critical details and attach offer documents. For more detail information about where this information comes from, see our contract break down.
 
 &lt;Screen grabs&gt;
 
-Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to get an estimate for the title fees.
+Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to help you estimate the title fees. 
 
 Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/idp/Authn/UserPassword)to estimate taxes and their loan payment. This [amortization calculator](http://www.amortization-calc.com/) is a huge help with that!
 
@@ -44,13 +44,17 @@ Include any additional details that may pertain to a specific offer. ie: leaseba
 
 Rename the file to match the following naming conventions: Offer - B Buyer - 123 Main St, 75201
 
-File in DropBox: Active &gt; 123 Main St, 75201 &gt; Negotiation &gt;Buyer 1 \(change buyer name, ie: B Buyer\). 
+File in DropBox: Active &gt; 123 Main St, 75201 &gt; Negotiation &gt;Buyer 1 \(change buyer name, ie: B Buyer\).
 
 ![](/assets/Screen Shot 2018-01-12 at 3.27.32 PM.png)
 
-**Send the Door Affiliated Business Agreement \(ABA\) Disclosure to the potential buyer along with the counter offer or executed contract.**
+**Send the Door Affiliated Business Agreement \(ABA\) Disclosure via email to the potential buyer along with the counter offer or executed contract.**
 
 **If multiple offers are received, follow the same steps for each buyer. Rename the DropBox buyer folders to reflect the names of the different potential buyers.**
 
-If multiple offers are received, send out an email in CSS to notify all agents that there are multiple offers on the property. 
+Discuss an offer deadline with your clients. It is recommended send out an email in CSS to notify all agents that there are multiple offers on the property.
+
+![](/assets/Screen Shot 2018-01-12 at 4.18.54 PM.png)
+
+From here, you and your clients will either negotiate one offer, or decide between the multiple offers received. Time to execute a contract and move on to the [Active Option ](/listing-agent/process-guide/active-option.md)stage.
 
