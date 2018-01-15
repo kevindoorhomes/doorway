@@ -16,7 +16,7 @@ In the left hand column in ProsperWorks, fully fill out the critical dates: Opti
 
 Active &gt; Property Address &gt; Contract &gt; Receipted Contract
 
-\*If the contract is not yet receipted, create an FE Contract folder to house the fully executed contract. 
+\*If the contract is not yet receipted, create an FE Contract folder to house the fully executed contract.
 
 ![](/assets/Screen Shot 2018-01-15 at 11.07.00 AM.png)
 
@@ -24,5 +24,13 @@ Active &gt; Property Address &gt; Contract &gt; Receipted Contract
 
 ![](/assets/Screen Shot 2018-01-15 at 11.03.16 AM.png)
 
-During this time, the buyers and their agent will schedule an inspection. Typically, an amendment to the contract asking for repairs will be sent to you.
+During the option period, the buyers and their agent will schedule an inspection. Typically, an amendment to the contract asking for repairs will be sent to you. You will negotiate with the buyer's agent until repairs have been agreed upon. Pay special attention to the wording for repairs, beacuse your sellers will be held to complete repairs as stated in the contract.
+
+**Fully Execute the Repairs Amendment**
+
+Send the fully executed repairs amendment to the title company and the buyer's agent. 
+
+File in DropBox in the Amendment folder. Active &gt; 123 Main St, 75206 - S Seller Household &gt; Contract &gt; Amendment
+
+![](/assets/Screen Shot 2018-01-15 at 11.38.00 AM.png)
 
