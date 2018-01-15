@@ -40,5 +40,15 @@ Please note: If the appraisal comes back during the pending phase, and you need 
 
 **Client Management while Pending**
 
+Maintain client communication by updating them with appraisal feedback, HOA document delivery, and other communication as needed. 
 
+Communicate with your client about repairs that need to be completed to make sure they are not in breech of contract. 
+
+Remember to log all communication and notes in ProsperWorks under the appropriate Opportunity. 
+
+**Schedule Closing**
+
+A week \(or so\) before closing, reach out to your client to determine their ideal closing time. Reach out to title to get this scheduled. It is good practice to cc your client on this communication to keep everyone on the same page. 
+
+Once closing is scheduled, double check your files to make sure all addenda, amendments, and the Door Affiliated Business Agreement has been signed and/or delivered and properly filed. 
 
