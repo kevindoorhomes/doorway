@@ -26,11 +26,17 @@ Active &gt; Property Address &gt; Contract &gt; Receipted Contract
 
 During the option period, the buyers and their agent will schedule an inspection. Typically, an amendment to the contract asking for repairs will be sent to you. You will negotiate with the buyer's agent until repairs have been agreed upon. Pay special attention to the wording for repairs, beacuse your sellers will be held to complete repairs as stated in the contract.
 
+Paragraph 7 of the amendment will end the option period early if you agree upon repairs before the original expiration date. You can check this box when you send back the amendment for final signatures.
+
+![](blob:file:///37c603fb-92a8-4d57-b0b0-db2574b8e105)
+
 **Fully Execute the Repairs Amendment**
 
-Send the fully executed repairs amendment to the title company and the buyer's agent. 
+Send the fully executed repairs amendment to the title company and the buyer's agent.
 
-File in DropBox in the Amendment folder. Active &gt; 123 Main St, 75206 - S Seller Household &gt; Contract &gt; Amendment
+File in DropBox in the Amendment folder. Active &gt; Property Address &gt; Contract &gt; Amendment
 
 ![](/assets/Screen Shot 2018-01-15 at 11.38.00 AM.png)
+
+Upon the execution of the repairs amendment or the expiration of the option period, your contract is now [pending](/listing-agent/process-guide/pending.md).
 
