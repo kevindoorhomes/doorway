@@ -36,6 +36,12 @@ Subject: CDA Sell \| 123 Main St, 75201
 >
 > * Lender contact name/email: N/A
 
+Please note: If the appraisal comes back during the pending phase, and you need to adjust the sales price, send a new, updated CDA as soon as possible.
+
+**Client Management while Pending**
+
+
+
 
 
 
