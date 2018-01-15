@@ -1,6 +1,6 @@
 # Pending
 
-Congrats! You've successfully navigated your way through the option period, and now your contract is pending. 
+Congrats! You've successfully navigated your way through the option period, and now your contract is pending.
 
 A few things first:
 
@@ -16,9 +16,25 @@ A few things first:
 
 &lt;screen grab&gt;
 
-**Send CDA to CDAs@doorhomes.com. **
+**Send "CDA Sell \| 123 Main St, 75201" canned response. **
 
-Use the CDA canned response and filled out all vital information.
+Send email to CDAs@doorhomes.com. Use the CDA canned response and filled out all vital information.
+
+Subject: CDA Sell \| 123 Main St, 75201
+
+> * Transaction address: 123 Main St, Dallas, TX 75201
+>
+> * Cooperating broker: Other Brokerage, LLC
+>
+> * Payable to cooperating broker: $11,250.00
+>
+> * Client name\(s\): Sally Seller
+>
+> * Amount credited to buyer: N/A
+>
+> * Title company contact name/email: Steven Brouer, sbrouer[@door-title.com](mailto:bturner@door-title.com)
+>
+> * Lender contact name/email: N/A
 
 
 
