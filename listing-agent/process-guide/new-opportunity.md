@@ -12,9 +12,10 @@ Call your new clients to set up a time to meet them at their property. The best 
 
 **At the Staging Appointment:**
 
+* Takes notes to log in ProsperWorks.
 * Tour the home.
 * Answer any home selling questions.
-* Explain communication and ask for preferred method.
+* Explain communication and ask for preferred method. \(text, email, phone call\)
 * Explain weekly expectations.
   * Communicate at least 2 times per week.
   * How you will present offers.

@@ -10,7 +10,7 @@ The property description is the blurb that goes into the MLS and onto real estat
 * It is crown moulding - not molding.
 * There should never be more than 1 exclamation point after a sentence!~~!!!~~
 * Only proper nouns should be capitalized
-* If a Seller instructs us to put "motivated seller," "bring all offers," "seller must move," or anything to that effect, those comments should be put in Private Remarks in the MLS. These comments should never go in the public description.
+* If a Seller instructs us to put "motivated seller," "bring all offers," "seller must move," or anything to that effect, those comments should be put in Private Remarks in the MLS. These comments should never go in the public description unless you receive permission in writing from the seller.
 
 **Double check the MLS information**
 
@@ -22,7 +22,7 @@ Once the listing is correctly input into the MLS...
 
 **Change the listing status to Active. **
 
-&lt;Screen grab&gt;
+![](/assets/Screen Shot 2018-01-15 at 10.25.37 AM.png)
 
 **Move the Opportunity to the Marketing stage in ProsperWorks.**
 
@@ -60,5 +60,5 @@ Subject: Your Listing is Live \| 123 Main St, 75201
 >
 > Savannah
 
-
+Be sure to edit the CSS details to fit your client's needs.
 
