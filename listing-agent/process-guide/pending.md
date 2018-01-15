@@ -32,17 +32,13 @@ Subject: CDA Sell \| 123 Main St, 75201
 >
 > * Amount credited to buyer: N/A
 >
-> * Title company contact name/email: Steven Brouer, sbrouer[@door-title.com](mailto:bturner@door-title.com)
+> * Title company contact name/email: Steven Brouer, sbrouer@door-title.com
 >
 > * Lender contact name/email: N/A
 
 Please note: If the appraisal comes back during the pending phase, and you need to adjust the sales price, send a new, updated CDA as soon as possible.
 
 **Client Management while Pending**
-
-
-
-
 
 
 
