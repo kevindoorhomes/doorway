@@ -18,9 +18,7 @@ A realtor's three favorite words. You've closed! You crossed the finish line! Ch
 * Select is it's a Door Title referral
 * Select if it was a personal referral
 
-**Update the \#retargetting channel in Slack with "123 Main St, 75201 is closed."**
+**Update the \#retargetting channel in Slack with the format:  `123 Main St, 75201 is closed`**
 
 &lt;screen grab&gt;
-
-
 
