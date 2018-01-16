@@ -28,7 +28,7 @@ During the option period, the buyers and their agent will schedule an inspection
 
 Paragraph 7 of the amendment will end the option period early if you agree upon repairs before the original expiration date. You can check this box when you send back the amendment for final signatures.
 
-![](blob:file:///37c603fb-92a8-4d57-b0b0-db2574b8e105)
+![](/assets/Screen Shot 2018-01-16 at 4.02.47 PM.png)
 
 **Fully Execute the Repairs Amendment**
 
