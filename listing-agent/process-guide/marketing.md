@@ -17,14 +17,14 @@ Our Field Agents and valuation team are rock stars when it comes to assessing a 
 
 Update the \#retargetting thread in slack with the following format: `123 Main St, 75201 price improvement $375,000.00`
 
-
-
 Send an email update through CSS and use information from the CSS showing report to contact any agent that had shown interest in the property.  
 ![](/assets/Screen Shot 2018-01-16 at 3.58.04 PM.png)
 
 **Extending the terms of Listing Agreement**
 
 Sometimes, there are those properties that just don't sell as quickly as anticipated. In this instance, it is encouraged to speak with your client about extending the terms of their listing agreement. If they agree, extend the expiration date of the Listing Agreement to the agreed upon date using the [TAR Amendment to Listing](http://www.sarealtywatch.com/wp-content/uploads/sites/230/2015/10/TX-Amendment-to-Listing-TAR-1404.pdf) form.
+
+If a client does not want to extend the listing agreement, then the listing will expire on the previously agreed upon date.
 
 **Logging Listing Amendments**
 
