@@ -34,7 +34,7 @@ Enter the listing live date and add the MLS number in the opportunity.
 
 **Update the \#retargetting thread in Slack.**
 
-Use the following format: **`123 Main St, (zipcode) is live`**
+Use the following format: `123 Main St, (zipcode) is live`
 
 ![](/assets/Screen Shot 2018-01-12 at 10.11.48 AM.png)
 
@@ -60,5 +60,5 @@ Subject: Your Listing is Live \| 123 Main St, 75201
 >
 > Savannah
 
-Be sure to edit the CSS details to fit your client's needs.
+\*Be sure to edit the paragraph in the canned response that discusses the CSS details to fit your client's needs.
 
