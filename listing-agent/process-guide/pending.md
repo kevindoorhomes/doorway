@@ -12,7 +12,7 @@ A few things first:
 
 ![](/assets/Screen Shot 2018-01-15 at 1.06.23 PM.png)
 
-**Update the \#retargetting channel in Slack with 123 Main St, 75201 is pending.**
+**Update the \#retargetting channel in Slack with the following format: `123 Main St, 75201 is pending`**
 
 &lt;screen grab&gt;
 
@@ -40,15 +40,15 @@ Please note: If the appraisal comes back during the pending phase, and you need 
 
 **Client Management while Pending**
 
-Maintain client communication by updating them with appraisal feedback, HOA document delivery, and other communication as needed. 
+Maintain client communication by updating them with appraisal feedback, HOA document delivery, and other communication as needed.
 
-Communicate with your client about repairs that need to be completed to make sure they are not in breech of contract. 
+Communicate with your client about repairs that need to be completed to make sure they are not in breech of contract.
 
-Remember to log all communication and notes in ProsperWorks under the appropriate Opportunity. 
+Remember to log all communication and notes in ProsperWorks under the appropriate Opportunity.
 
 **Schedule Closing**
 
-A week \(or so\) before closing, reach out to your client to determine their ideal closing time. Reach out to title to get this scheduled. It is good practice to cc your client on this communication to keep everyone on the same page. 
+A week \(or so\) before closing, reach out to your client to determine their ideal closing time. Reach out to title to get this scheduled. It is good practice to cc your client on this communication to keep everyone on the same page.
 
-Once closing is scheduled, double check your files to make sure all addenda, amendments, and the Door Affiliated Business Agreement has been signed and/or delivered and properly filed. 
+Once closing is scheduled, double check your files to make sure all addenda, amendments, and the Door Affiliated Business Agreement has been signed and/or delivered and properly filed.
 
