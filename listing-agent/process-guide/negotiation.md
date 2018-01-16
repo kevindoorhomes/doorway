@@ -24,9 +24,15 @@ Fill out all critical details and attach offer documents. For more detail inform
 
 ![](/assets/Screen Shot 2018-01-15 at 10.36.34 AM.png)
 
-Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to help you estimate the title fees.
+Fill out the Net Sheet. This will require some estimating on your past. Use the tools below to help.
 
-Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/idp/Authn/UserPassword)to estimate taxes and their loan payment. This [amortization calculator](http://www.amortization-calc.com/) is a huge help with that!
+![](/assets/Screen Shot 2018-01-16 at 4.39.53 PM.png)
+
+Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing) to help you estimate the title expenses.
+
+Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/idp/Authn/UserPassword)to estimate taxes and their loan payment. This [amortization calculator](http://www.amortization-calc.com/) is a huge help with the calculations for the net sheet!
+
+
 
 ![](/assets/realist tax.png)
 
