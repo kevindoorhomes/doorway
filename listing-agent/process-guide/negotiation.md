@@ -32,8 +32,6 @@ Use the Door [Affiliated Business Agreement](https://docs.google.com/document/d/
 
 Use the Realist Tax application from [NTREIS ](https://idp.ntreis.safemls.net/idp/Authn/UserPassword)to estimate taxes and their loan payment. This [amortization calculator](http://www.amortization-calc.com/) is a huge help with the calculations for the net sheet!
 
-
-
 ![](/assets/realist tax.png)
 
 **Log the offer in ProsperWorks**
@@ -60,7 +58,7 @@ File in DropBox: Active &gt; 123 Main St, 75201 &gt; Negotiation &gt;Buyer 1 \(c
 
 ![](/assets/Screen Shot 2018-01-12 at 3.27.32 PM.png)
 
-**Send the Door Affiliated Business Agreement \(ABA\) Disclosure via email to the potential buyer along with the counter offer or executed contract.**
+**Send the**[** Door Affiliated Business Agreement**](https://docs.google.com/document/d/1b_ySv2TqJA-FsmGTyHMCeRXycOiOm0qDGS8pcuXWHrI/edit?usp=sharing)** \(ABA\) Disclosure via email to the potential buyer along with the counter offer or executed contract.**
 
 **If multiple offers are received, follow the same steps for each buyer. Rename the DropBox buyer folders to reflect the names of the different potential buyers.**
 
