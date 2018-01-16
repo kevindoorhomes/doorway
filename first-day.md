@@ -46,7 +46,9 @@
 
   * Need to follow up 
 
+**Misc:**
 
+* We use a lot of acronyms here at Door! If you ever find an acronym you don't know, jump to the [Acronym Section](/misc/acronyms.md) to learn more.
 
-
+[Test](history.back)
 

@@ -10,8 +10,7 @@
 
 * **Closing Costs**: Closing costs are fees paid at the home closing, which is when the title of a residence is transferred from the seller to the buyer. These costs typically include real estate commissions, escrow fees, document recording fees, lawyer fees, title insurance fees, survey fees, and taxes. These costs can also include the expenses the home has incurred by buyers and sellers during any negotiations.
 
-* **Comparative Market Analysis: **The best method available to home sellers to learn their  
-  home's current value so they can select the best sale price is a CMA, or Comparative Market Analysis. CMA is the term real estate agents use when they conduct an in-depth analysis of a home's worth in today's market.
+* **Comparative Market Analysis: **The best method available to home sellers to learn their home's current value so they can select the best sale price is a CMA, or Comparative Market Analysis. CMA is the term real estate agents use when they conduct an in-depth analysis of a home's worth in today's market.
 
 * **Contingencies: **A contingency is the condition that must be met before the deal can be finalized between the buyer and the seller becomes legally binding.. If the home inspection reveals major problems, then the contingency allows the buyer to walk away from the contract without losing money. A common contingency is the home inspection. Other contingencies can include appraisal contingencies or financing contingency.
 
