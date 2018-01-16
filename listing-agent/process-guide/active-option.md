@@ -24,6 +24,22 @@ Active &gt; Property Address &gt; Contract &gt; Receipted Contract
 
 ![](/assets/Screen Shot 2018-01-15 at 11.03.16 AM.png)
 
+**Receipt the Option Fee**
+
+It is the buyer's agent's responsibility to be sure the option fee is delivered to the seller or the buyer's agent within 3 days of getting the contract executed.
+
+There are a few ways this can happen:
+
+* The buyer's agent delivers the option fee to the office
+* The buyer's agent delivers the option fee to the seller's home.
+  * If this is the method of delivery, ask the agent AND your sellers to send a picture of the check to confirm it was delivered.
+* Buyer's agent delievers the option fee to title.
+  * If this happens, title will need to get the check to you within the 3 day time period. 
+
+It is best practice to do your best to accomodate the buyer's agent to help facilitate in the option fee being delievered on time.
+
+**Negotiate Repairs**
+
 During the option period, the buyers and their agent will schedule an inspection. Typically, an amendment to the contract asking for repairs will be sent to you. You will negotiate with the buyer's agent until repairs have been agreed upon. Pay special attention to the wording for repairs, beacuse your sellers will be held to complete repairs as stated in the contract.
 
 Paragraph 7 of the amendment will end the option period early if you agree upon repairs before the original expiration date. You can check this box when you send back the amendment for final signatures.
