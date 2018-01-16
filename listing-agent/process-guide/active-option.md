@@ -36,7 +36,11 @@ There are a few ways this can happen:
 * Buyer's agent delievers the option fee to title.
   * If this happens, title will need to get the check to you within the 3 day time period. 
 
-It is best practice to do your best to accomodate the buyer's agent to help facilitate in the option fee being delievered on time.
+It is best practice to do your best to accomodate the buyer's agent to help facilitate the option fee being delivered on time.
+
+To receipt the option fee, fill out page 9 of the contract. Use the screen grab below as a reference. 
+
+![](/assets/Screen Shot 2018-01-16 at 4.12.02 PM.png)
 
 **Negotiate Repairs**
 
