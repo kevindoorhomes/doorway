@@ -6,6 +6,8 @@
 
 * **Buyer’s Agent and Listing Agent**: Typically, there are two types of real estate agents that are involved in the home buying process. If you are buying a home, then you will want to be represented by a buyer’s specialist, while the listing agent will represent the seller of the home.
 
+* **Centralized Showing Service: **This software is used by real estate agents to manage all their showings and showing requests from one source. 
+
 * **Closing**: The closing date is the scheduled day on which the sale of the property is officially finalized and transferred thereafter. In order to meet the closing date, the buyer must sign all the mortgage documents and pay all closing costs and the seller completes the transaction with the buyer.
 
 * **Closing Costs**: Closing costs are fees paid at the home closing, which is when the title of a residence is transferred from the seller to the buyer. These costs typically include real estate commissions, escrow fees, document recording fees, lawyer fees, title insurance fees, survey fees, and taxes. These costs can also include the expenses the home has incurred by buyers and sellers during any negotiations.
