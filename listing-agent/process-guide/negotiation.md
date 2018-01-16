@@ -2,7 +2,7 @@
 
 Congrats! You just got an offer on your listing. Now what?
 
-ALL offers must be presented to clients in a timely manner. Unless your client requests to view all offers at a specific time, do everything you can to present offers shortly after they are received.
+ALL offers must be presented to clients in a timely manner. Unless your client requests to view all offers at a specific time, do everything you can to present offers shortly after they are received. 
 
 Communicate with buyers' agents to let them know that you received the offer and when you will be presenting it.
 
@@ -45,6 +45,8 @@ This step is important as it communicates to our Client Managers the status of t
 **File the Offer in DropBox.**
 
 Rename the file to match the following naming conventions: Offer - B Buyer - 123 Main St, 75201
+
+> Replace B Buyer with the first letter of your first name and full last name
 
 File in DropBox: Active &gt; 123 Main St, 75201 &gt; Negotiation &gt;Buyer 1 \(change buyer name, ie: B Buyer\).
 
