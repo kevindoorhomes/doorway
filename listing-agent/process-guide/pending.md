@@ -12,9 +12,9 @@ A few things first:
 
 ![](/assets/Screen Shot 2018-01-15 at 1.06.23 PM.png)
 
-**Update the \#retargetting channel in Slack with the following format: `123 Main St, 75201 is pending`**
+**Update the \#retargetting channel in Slack with the following format: **
 
-&lt;screen grab&gt;
+![](/assets/Screen Shot 2018-01-16 at 3.55.50 PM.png)
 
 **Send "CDA Sell \| 123 Main St, 75201" canned response. **
 
