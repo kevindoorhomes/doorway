@@ -38,9 +38,53 @@ Paragraph 6.A establishes who will pay for the title policy. Depending on the pr
 
 **Paragraph 6.C**
 
-Paragraph 6.C outlines which party is responsible for delivering a survey and the timeline in which it is to be delivered. If your seller doesn't have an existing survey, paying attention to this paragraph can save them a few hundred dollars. If the sellers have a survey, but have since added a pool or structure to the land, you can check box 1. Since the survey is not acceptable, check "Buyer's expense" at the bottom of the paragraph, and the buyer will be responsible for purchasing the new survey.  
+Paragraph 6.C outlines which party is responsible for delivering a survey and the timeline in which it is to be delivered. If your seller doesn't have an existing survey, paying attention to this paragraph can save them a few hundred dollars. If the sellers have a survey, but have since added a pool or structure to the land, you can check box 1. Since the survey is not acceptable, check "Buyer's expense" at the bottom of the paragraph, and the buyer will be responsible for purchasing the new survey.
 
- ![](/assets/Screen Shot 2018-01-17 at 10.00.55 AM.png)
+![](/assets/Screen Shot 2018-01-17 at 10.00.55 AM.png)
+
+**Paragraph 6.E**
+
+If your client's home is part of an Home Owners Association \(HOA\), then you will check "is" on Paragraph 6.E.2 MEMEBERSHIP IN PROPERTY OWNERS ASSOCIATION. Since it is part of an HOA, you will need to include the [Addendum for Property Subject to Mandatory Membership in an Property Owners Association![](/assets/Screen Shot 2018-01-17 at 10.04.42 AM.png)](https://www.trec.texas.gov/sites/default/files/pdf-forms/36-8.pdf)
+
+**Paragraph 7.B**
+
+Paragraph 7.B outlines the Seller's Disclosure Notice timelines. Many times our onboarding team has uploaded this into the MLS for buyer's agents to see. If for some reason, the Seller's Disclosure has not been received by the buyer, pay close attention to the timeline set in the contract. Failing to meet this deadline could give your buyer's means to walk away from the contract and retain their earnest money.
+
+![](/assets/Screen Shot 2018-01-17 at 10.16.50 AM.png)
+
+**Paragraph 7.H **
+
+Paragraph 7.H states whether or not the buyers are asking the sellers to purchase a Home Warranty on their behalf. In a multiple offer situation, this paragraph could effect which offer will net the seller more at closing. 
+
+![](/assets/Screen Shot 2018-01-17 at 10.23.05 AM.png)
+
+**Paragraph 9.A**
+
+Paragraph 9.A sets the closing date for the contract. This is in an or before date. If closing is to be delayed for any reason, this date must be amended using the TREC Amendment. 
+
+![](/assets/Screen Shot 2018-01-17 at 10.25.42 AM.png)
+
+**Paragraph 10**
+
+Paragraph 10 outlines when the new owner will take possession of the property. There are 2 options here: upon closing and funding or according to a temporary lease. Upon closing and funding means that the new owners take possession of the property on the close date once funds have been received. If the seller's need a leaseback, then a [Seller's Temporary Residential Lease](https://www.trec.texas.gov/sites/default/files/pdf-forms/15-5.pdf) will be a part of the contract.![](/assets/Screen Shot 2018-01-17 at 10.26.04 AM.png) 
+
+**Paragraph 12.A.1.b**
+
+Paragraph 12 outlines the details of closing costs for each party. Paragraph 12.A.1.b specifically addresses seller's closing cost contribution. This paragraph is important to note, since it states how much \(if any\) the buyer is asking the sellers to pay in closing costs. This paragraph can significantly effect how much a seller nets at close, so it is important to note when presenting offers to your clients. 
+
+![](/assets/Screen Shot 2018-01-17 at 10.36.35 AM.png)
+
+**Paragraph 22**
+
+Paragraph 22 is important to pay attention to when negotiating and executing contract. This section of the contract is where you check which documents are included in addition to the standard contract. Be sure all documents included have a check next to them.
+
+![](/assets/Screen Shot 2018-01-17 at 10.48.21 AM.png)
+
+**Paragraph 23**
+
+Paragraph 23 sets the terms for the option period. It tells your seller how much the buyer will pay them for an option fee and when the option period will expire. It is good practice to keep option periods around 7 days and expiring on a weekday. All option periods expire at 5:00 pm. 
+
+![](/assets/Screen Shot 2018-01-17 at 10.50.27 AM.png)
 
 
 
