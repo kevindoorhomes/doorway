@@ -36,3 +36,11 @@ Paragraph 5 states the amount of earnest money the buyer will place in escrow an
 
 Paragraph 6.A establishes who will pay for the title policy. Depending on the price of the home, this policy can be thousands of dollars. This is typically a seller's expense, but if a buyer offers to pay for the title policy, it can effect how much the seller will net at closing. ![](/assets/Screen Shot 2018-01-16 at 8.16.59 PM.png)
 
+**Paragraph 6.C**
+
+Paragraph 6.C outlines which party is responsible for delivering a survey and the timeline in which it is to be delivered. If your seller doesn't have an existing survey, paying attention to this paragraph can save them a few hundred dollars. If the sellers have a survey, but have since added a pool or structure to the land, you can check box 1. Since the survey is not acceptable, check "Buyer's expense" at the bottom of the paragraph, and the buyer will be responsible for purchasing the new survey.  
+
+ ![](/assets/Screen Shot 2018-01-17 at 10.00.55 AM.png)
+
+
+
