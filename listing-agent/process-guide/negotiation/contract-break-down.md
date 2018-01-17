@@ -4,11 +4,11 @@ The contracts that make up a real estate transaction are long and wordy, but it 
 
 In this section, you will find a few paragraphs broken down. We will be looking at some of the critical details of the contract that are the most important to clients as they negotiate offers.
 
-&lt;keep this???&gt;**Paragraph 1 **
+**Paragraph 1 **
 
 Paragraph 1 names the parties to the contract. Be sure to double check with your clients to confirm their legal names. If there have been recent marital changes, confirm who all needs to be named on the contract. ![](/assets/Screen Shot 2018-01-16 at 7.54.23 PM.png)
 
-&lt;keep this???&gt;**Paragraph 2.A**
+**Paragraph 2.A**
 
 Paragraph 2.A gives the legal description of the property. Always double check this for accuracy. ![](/assets/Screen Shot 2018-01-16 at 8.00.50 PM.png)
 
@@ -54,23 +54,23 @@ Paragraph 7.B outlines the Seller's Disclosure Notice timelines. Many times our 
 
 **Paragraph 7.H **
 
-Paragraph 7.H states whether or not the buyers are asking the sellers to purchase a Home Warranty on their behalf. In a multiple offer situation, this paragraph could effect which offer will net the seller more at closing. 
+Paragraph 7.H states whether or not the buyers are asking the sellers to purchase a Home Warranty on their behalf. In a multiple offer situation, this paragraph could effect which offer will net the seller more at closing.
 
 ![](/assets/Screen Shot 2018-01-17 at 10.23.05 AM.png)
 
 **Paragraph 9.A**
 
-Paragraph 9.A sets the closing date for the contract. This is in an or before date. If closing is to be delayed for any reason, this date must be amended using the TREC Amendment. 
+Paragraph 9.A sets the closing date for the contract. This is in an or before date. If closing is to be delayed for any reason, this date must be amended using the TREC Amendment.
 
 ![](/assets/Screen Shot 2018-01-17 at 10.25.42 AM.png)
 
 **Paragraph 10**
 
-Paragraph 10 outlines when the new owner will take possession of the property. There are 2 options here: upon closing and funding or according to a temporary lease. Upon closing and funding means that the new owners take possession of the property on the close date once funds have been received. If the seller's need a leaseback, then a [Seller's Temporary Residential Lease](https://www.trec.texas.gov/sites/default/files/pdf-forms/15-5.pdf) will be a part of the contract.![](/assets/Screen Shot 2018-01-17 at 10.26.04 AM.png) 
+Paragraph 10 outlines when the new owner will take possession of the property. There are 2 options here: upon closing and funding or according to a temporary lease. Upon closing and funding means that the new owners take possession of the property on the close date once funds have been received. If the seller's need a leaseback, then a [Seller's Temporary Residential Lease](https://www.trec.texas.gov/sites/default/files/pdf-forms/15-5.pdf) will be a part of the contract.![](/assets/Screen Shot 2018-01-17 at 10.26.04 AM.png)
 
 **Paragraph 12.A.1.b**
 
-Paragraph 12 outlines the details of closing costs for each party. Paragraph 12.A.1.b specifically addresses seller's closing cost contribution. This paragraph is important to note, since it states how much \(if any\) the buyer is asking the sellers to pay in closing costs. This paragraph can significantly effect how much a seller nets at close, so it is important to note when presenting offers to your clients. 
+Paragraph 12 outlines the details of closing costs for each party. Paragraph 12.A.1.b specifically addresses seller's closing cost contribution. This paragraph is important to note, since it states how much \(if any\) the buyer is asking the sellers to pay in closing costs. This paragraph can significantly effect how much a seller nets at close, so it is important to note when presenting offers to your clients.
 
 ![](/assets/Screen Shot 2018-01-17 at 10.36.35 AM.png)
 
@@ -82,9 +82,7 @@ Paragraph 22 is important to pay attention to when negotiating and executing con
 
 **Paragraph 23**
 
-Paragraph 23 sets the terms for the option period. It tells your seller how much the buyer will pay them for an option fee and when the option period will expire. It is good practice to keep option periods around 7 days and expiring on a weekday. All option periods expire at 5:00 pm. 
+Paragraph 23 sets the terms for the option period. It tells your seller how much the buyer will pay them for an option fee and when the option period will expire. It is good practice to keep option periods around 7 days and expiring on a weekday. All option periods expire at 5:00 pm.
 
 ![](/assets/Screen Shot 2018-01-17 at 10.50.27 AM.png)
-
-
 
