@@ -4,6 +4,48 @@ You've just executed a contract, and now you're in the option period. What happe
 
 First, a few house keeping items:
 
+**Send the Executed Contract to the title company, buyer's agent, and the buyer's lender.**
+
+Use the canned response below, and fill out the information as it pertains to your offer.
+
+Subject: Executed Contract \| 123 Main St, 75201
+
+> Hi All!
+>
+> I have attached the fully executed contract for XXXX. The details have been summarized below:
+>
+> **Execution Date:**
+
+> **Cash:**
+>
+> **\(Conventional\) Financed:**
+>
+> **TOTAL Sales Price:**
+>
+> **Earnest $:**
+>
+> Seller to pay Title Policy 
+>
+> **Survey Due Date:**
+>
+> **Seller Contribution to Residential Service Contract: **
+>
+> **Close Date:**
+>
+> **Seller Contribution to Buyer's Closing Costs:**
+>
+> **Option Period Expires: **\($\)
+
+> **HOA Docs Due:**
+>
+> Please let me know if you need anything else at this time!
+
+> Best,
+
+> Savannah
+
+Send a "Next Steps" email to your sellers. 
+
 **Move the Opportunity from Negotiation to Active Option in ProsperWorks.**
 
 ![](/assets/Screen Shot 2018-01-12 at 4.44.36 PM.png)
