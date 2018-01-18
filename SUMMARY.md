@@ -18,7 +18,7 @@
     * [New Opportunity - Sell](listing-agent/process-guide/new-opportunity.md)
     * [Onboarding - Sell](listing-agent/process-guide/listing-live.md)
     * [Marketing - Sell](listing-agent/process-guide/marketing.md)
-      * [Implementing a Price Improvement](listing-agent/process-guide/marketing/implementing-a-price-improvement.md)
+    * [Implementing a Price Improvement](listing-agent/process-guide/marketing/implementing-a-price-improvement.md)
     * [Negotiation - Sell](listing-agent/process-guide/negotiation.md)
       * [Contract Break Down](listing-agent/process-guide/negotiation/contract-break-down.md)
     * [Active Option - Sell](listing-agent/process-guide/active-option.md)
