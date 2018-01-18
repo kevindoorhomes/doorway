@@ -26,7 +26,7 @@ In the showing report, the reports can be "open" or "collapsed" depending on per
 
 ---
 
-After your listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report and a Showing Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line.
+After the listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report and a Showing Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line.
 
 ![](/assets/Screen Shot 2018-01-18 at 2.47.44 PM.png)
 
@@ -44,7 +44,7 @@ Subject: Weekly Updates \| 123 Main St, 75201
 
 ---
 
-Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement.
+Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. Visit the[ Implementing a Price Improvement](/listing-agent/process-guide/marketing/implementing-a-price-improvement.md) page for more detailed information about how this conversation looks.
 
 ### Logging in ProsperWorks
 
