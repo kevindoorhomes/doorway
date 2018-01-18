@@ -46,6 +46,32 @@ Subject: Executed Contract \| 123 Main St, 75201
 
 **Send a "Next Steps" email to your sellers.**
 
+Use the canned response below. If needed, edit the email to fit your clients' situation. Be sure to attached the fully executed contract and T-47 \(if needed\) to this email. 
+
+Subject: Next Steps \| 123 Main St, 75201
+
+> Hi ,
+>
+> Congrats again on your executed contract! I've attached a copy for your records.
+>
+> I've listed some action items that will need your attention below, as well as an explanation of some of the next steps we will be taking:
+>
+> **SURVEY **- If we do not already have a copy of your existing survey, please forward to us ASAP. In the event you do not have one, we can order one through title, just let me know. We will also need the attached T-47 affidavit to accompany your existing survey. Please fill it out, have it notarized, and returned to me at your earliest convenience.
+>
+> **OPTION PERIOD **- Your option period began upon execution of the contract and will end on INSERT DATE at 5pm. The buyer will schedule an inspection of the property through CSS so you will be able to approve accordingly. These are typically 3-4 hours long and you do not need to be present at the time of inspection. Once the inspection has been completed and the buyer has received the report from the inspector, they will typically prepare a repair amendment and we will review this together. Once both parties \(you and the buyers\) have agreed on any proposed repairs, we will move forward into a pending status. 
+>
+> **TITLE WORK - **I have forwarded a copy of your contract to INSERT ESROW OFFICER NAME AND COMPANY. They will be reaching out soon for some additional information from you. Please return any requested documents to them in a timely manner as any delays could eventually delay closing. You can reach INSERT NAME at INSERT PHONE NUMBER if you have any questions.
+>
+> **APPRAISAL** - This will be ordered through CSS by the buyer's lender sometime after the option period has ended. You will not need to be present for this. This is to determine the appraised value of the home. If the appraisal happens to come back lower than the contract price, we may have to do a little more negotiating. 
+>
+> **APPOINTMENTS THROUGH CSS **- The appointments scheduled through CSS should slow down at this point. Appointments to be on the lookout for in the coming days are the inspection and the appraisal. Buyers may schedule additional appointments to take measurements, get quotes for any work they are having done, and finally, to do their final walk through before closing. 
+>
+> I'm excited to help you through the rest of this process! If you have any questions at all, please reach out.
+>
+> Best,
+>
+> Savannah
+
 **Move the Opportunity from Negotiation to Active Option in ProsperWorks.**
 
 ![](/assets/Screen Shot 2018-01-12 at 4.44.36 PM.png)
@@ -82,7 +108,7 @@ It is best practice to do your best to accomodate the buyer's agent to help faci
 
 To receipt the option fee, fill out page 9 of the contract. Use the screen grab below as a reference.
 
-![](/assets/Screen Shot 2018-01-16 at 4.12.02 PM.png)
+![](/assets/Screen Shot 2018-01-16 at 4.12.02 PM.png)\*NEVER receipt earnest money. Earnest money MUST be receipted by the title company.
 
 **Negotiate Repairs**
 
