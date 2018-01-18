@@ -13,13 +13,15 @@ It is Door policy to touch base with your client 2 times each week,  with at lea
 
 **Calls during the Marketing Stage**
 
-When a listing is newly on the market, the primary client communication will be about feedback received from other agents. Use the [Centralized Showing Service](https://app.showings.com/Login) \(CSS\) website to track who has viewed the listing and the feedback received. If an agent doesn't provide any feedback, it is best practice to call them to get feedback for the seller. 
+When a listing is newly on the market, the primary client communication will be about feedback received from other agents. Use the [Centralized Showing Service](https://app.showings.com/Login) \(CSS\) website to track who has viewed the listing and the feedback received. If an agent doesn't provide any feedback, it is best practice to call them to get feedback for the seller.
 
 In CSS, click on the Showing Report tab to access a log of showings for all listings.
 
 ![](/assets/Screen Shot 2018-01-18 at 10.01.42 AM.png)
 
-In the showing report, the reports can be "open" or "collapsed" depending on personal preference when viewing. The date range can also be altered to change how far back the report pulls from. 
+In the showing report, the reports can be "open" or "collapsed" depending on personal preference when viewing. The date range can also be altered to change how far back the report pulls from.
 
 ![](/assets/Screen Shot 2018-01-18 at 10.03.39 AM.png)
+
+
 
