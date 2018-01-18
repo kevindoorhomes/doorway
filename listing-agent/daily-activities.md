@@ -2,7 +2,7 @@
 
 Door is structured so that the listing agents are primarily in the office responding to clients, agents, and other parties involved in a real estate transaction. Much of our time is spent communicating with clients and negotiating offers. This section outlines ways in which listing agents communicate with clients, and manage other tasks throughout the week.
 
-### **Weekly Client Calls**
+### **Weekly Client Communication**
 
 It is Door policy to touch base with clients 2 times each week,  with at least one of those touch points being a phone call. Of course, the amount of calls made to a client can easily increase depending on what stage of the transaction they are in.
 
@@ -47,7 +47,9 @@ Once a listing has been on the market or has received negative feedback about th
 
 ### Logging in ProsperWorks
 
-### DropBox and ProsperWorks Maintenance 
+---
+
+### DropBox and ProsperWorks Maintenance
 
 
 
