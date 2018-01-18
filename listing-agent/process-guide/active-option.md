@@ -15,7 +15,7 @@ Subject: Executed Contract \| 123 Main St, 75201
 > I have attached the fully executed contract for XXXX. The details have been summarized below:
 >
 > **Execution Date:**
-
+>
 > **Cash:**
 >
 > **\(Conventional\) Financed:**
@@ -24,27 +24,27 @@ Subject: Executed Contract \| 123 Main St, 75201
 >
 > **Earnest $:**
 >
-> Seller to pay Title Policy 
+> Seller to pay Title Policy
 >
 > **Survey Due Date:**
 >
-> **Seller Contribution to Residential Service Contract: **
+> **Seller Contribution to Residential Service Contract: **
 >
 > **Close Date:**
 >
 > **Seller Contribution to Buyer's Closing Costs:**
 >
 > **Option Period Expires: **\($\)
-
+>
 > **HOA Docs Due:**
 >
 > Please let me know if you need anything else at this time!
-
+>
 > Best,
-
+>
 > Savannah
 
-Send a "Next Steps" email to your sellers. 
+**Send a "Next Steps" email to your sellers.**
 
 **Move the Opportunity from Negotiation to Active Option in ProsperWorks.**
 
