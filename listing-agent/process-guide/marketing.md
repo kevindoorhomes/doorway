@@ -15,7 +15,9 @@ Our Field Agents and valuation team are rock stars when it comes to assessing a 
 * Set expectations about how you will watch the market and advise them based on current market conditions. 
 * Use comparable properties and [Quick CMA](/listing-agent/daily-activities.md)s from the MLS to guide your clients pricing decisions.
 
-Update the \#retargetting thread in slack with the following format: `123 Main St, 75201 price improvement $375,000.00`
+Update the \#retargetting thread in slack with the following format: 
+
+![](/assets/Screen Shot 2018-01-18 at 4.09.54 PM.png)
 
 Send an email update through CSS and use information from the CSS showing report to contact any agent that had shown interest in the property.  
 ![](/assets/Screen Shot 2018-01-16 at 3.58.04 PM.png)
