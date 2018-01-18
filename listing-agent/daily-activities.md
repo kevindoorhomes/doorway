@@ -44,9 +44,11 @@ Subject: Weekly Updates \| 123 Main St, 75201
 
 ---
 
-Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. Visit the[ Implementing a Price Improvement](/listing-agent/process-guide/marketing/implementing-a-price-improvement.md) page for more detailed information about how this conversation looks.
+Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. Visit the[ "Implementing a Price Improvement](/listing-agent/process-guide/marketing/implementing-a-price-improvement.md)" page for more detailed information about how this conversation looks.
 
 ### Logging in ProsperWorks
+
+
 
 ---
 
