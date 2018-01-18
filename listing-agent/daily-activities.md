@@ -43,5 +43,11 @@ Subject: Weekly Updates \| 123 Main St, 75201
 
 ---
 
-Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. 
+Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement.
+
+### Logging in ProsperWorks
+
+### DropBox and ProsperWorks Maintenance 
+
+
 
