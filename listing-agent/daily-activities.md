@@ -4,9 +4,10 @@ Door is structured so that the listing agents are primarily in the office respon
 
 ### **Weekly Client Communication**
 
-It is Door policy to touch base with clients 2 times each week,  with at least one of those touch points being a phone call. Of course, the amount of calls made to a client can easily increase depending on what stage of the transaction they are in.
+Door’s product is a methodical and professional style of communication as much as it is a technology-enabled real estate transaction platform. It is of paramount importance that Door’s Sellers receive a continuous flow of informative information from their Door Agent.
 
 * **Onboarding** - Many calls during the onboarding stage will be to follow up about forms, answer client questions before going live, and to confirm any information in the MLS or on the property description. 
+* **Setting the Listing Live** - send an email congratulating the client on their listing going live. Notify them that within a couple hours the listing will be pushed out to Zillow, Trulie, Realtor.com and about 90 other sites. 
 * **Marketing** - Communication during marketing deserves a section all its own, and will be revisited later.
 * **Active Option** - During the active option period, you will be communicating with your client heavily about repairs and confirming documents are being delivered by the date specified in the contract. 
 * **Pending** - Communication during the pending stage will be to discuss appraisals and schedule closing. Proactive communiaction during the pending stage will reassure clients their agents are on top of dates and documents as closing approaches. Put some extra effort into making sure your clients are aware of the work you are doing behind the scenes. This may be cc'ing them on an email to title to get closing scheduled, or sending a text letting them know you've reviewed the contract making sure nothing needs to be amended.
