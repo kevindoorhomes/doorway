@@ -23,5 +23,25 @@ In the showing report, the reports can be "open" or "collapsed" depending on per
 
 ![](/assets/Screen Shot 2018-01-18 at 10.03.39 AM.png)
 
+---
+
+After your listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report and a Showing Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line. 
+
+![](/assets/Screen Shot 2018-01-18 at 2.47.44 PM.png)
+
+Send a "Weekly Updates" email using the following canned response, or one similar. This may need to be edited depending on how the weekly update information will be used. 
+
+Subject: Weekly Updates \| 123 Main St, 75201
+
+> Hi !
+>
+> I've pulled together our showing report for this week as well as some information regarding how well our property has been performing online. Take a look at the attached, and let me know if you have any questions! Do you have time to hop on a call later today or tomorrow to discuss? 
+>
+> Best,
+>
+> Savannah
+
+---
+
 
 
