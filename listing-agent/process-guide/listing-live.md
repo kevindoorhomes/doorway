@@ -1,6 +1,6 @@
-# Onboarding Your Listing
+# Onboarding A Listing
 
-Our Transaction Coordinators do most of the MLS input. As the Listing Agent, you will need to complete a few tasks before setting the listing to Active.
+Transaction Coordinators do most of the MLS input. However, the listing agent will need to complete a few tasks before setting the listing to Active.
 
 **Write the Property Description: **
 
@@ -10,11 +10,11 @@ The property description is the blurb that goes into the MLS and onto real estat
 * It is crown moulding - not molding.
 * There should never be more than 1 exclamation point after a sentence!~~!!!~~
 * Only proper nouns should be capitalized
-* If a Seller instructs us to put "motivated seller," "bring all offers," "seller must move," or anything to that effect, those comments should be put in Private Remarks in the MLS. These comments should never go in the public description unless you receive permission in writing from the seller.
+* If a Seller instructs their agent to put "motivated seller," "bring all offers," "seller must move," or anything to that effect, those comments should be put in Private Remarks in the MLS. These comments should never go in the public description unless  permission is received in writing from the seller.
 
 **Double check the MLS information**
 
-Our onboarding team is good, but always double check the information that is entered into the MLS on your behalf. The listing is under your license number, so it is your responsibility to assure all information is accurate.
+The onboarding team is good, but always double check the information that is entered into the MLS on behalf of an agent. The listing is under the agent's license number, so it is their responsibility to assure all information is accurate.
 
 Pay special attention to the sales price. It is crucial to list the home with the correct price from the beginning.
 
@@ -34,7 +34,7 @@ Enter the listing live date and add the MLS number in the opportunity.
 
 **Update the \#retargetting thread in Slack.**
 
-Use the following format: `123 Main St, (zipcode) is live`
+Use the following format: 
 
 ![](/assets/Screen Shot 2018-01-12 at 10.11.48 AM.png)
 
