@@ -34,7 +34,7 @@ Enter the listing live date and add the MLS number in the opportunity.
 
 **Update the \#retargetting thread in Slack.**
 
-Use the following format: 
+Use the following format:
 
 ![](/assets/Screen Shot 2018-01-12 at 10.11.48 AM.png)
 
