@@ -1,6 +1,8 @@
 # New Opportunity
 
-The Team Lead will connect a listing agent to his clients for the first time via an Agent Introduction Email.
+An agent's opportunities in ProsperWorks are what make up their pipeline. Team Leads will monitor and manage the incoming flow of leads and assign them as needed among their team. 
+
+The Team Lead will connect a listing agents to their clients for the first time via an Agent Introduction Email.
 
 ![](/assets/Screen Shot 2018-01-11 at 3.20.20 PM.png)
 
@@ -25,6 +27,8 @@ Call the new clients to set up a time to meet them at their property. The best t
   * Door needs at least 24 hours for the pictures to be processed.
   * Communicate that listings will go live by the end of day on preferred listing date.
 * Confirm [CSS ](/misc/acronyms.md)showing instructions and ask about any special circumstances. 
+
+Agents are to log notes from the client meeting in ProsperWorks after the appointment. 
 
 
 
