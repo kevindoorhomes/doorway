@@ -1,6 +1,6 @@
 # New Opportunity
 
-An agent's opportunities in ProsperWorks are what make up their pipeline. Team Leads will monitor and manage the incoming flow of leads and assign them as needed among their team. 
+An agent's opportunities in ProsperWorks are what make up their pipeline. Team Leads will monitor and manage the incoming flow of leads and assign them as needed among their team.
 
 The Team Lead will connect a listing agents to their clients for the first time via an Agent Introduction Email.
 
@@ -28,7 +28,14 @@ Call the new clients to set up a time to meet them at their property. The best t
   * Communicate that listings will go live by the end of day on preferred listing date.
 * Confirm [CSS ](/misc/acronyms.md)showing instructions and ask about any special circumstances. 
 
-Agents are to log notes from the client meeting in ProsperWorks after the appointment. 
+**Often times, agents will get asked, "Why doesn't Door host Open Houses?"**
 
+* We have sold over $100M in homes and not one has sold due to open houses.
+* We're not going to waste your time and put your property at risk with open houses.
+* Liability for open houses is on you, the homeowner, for property theft, etc., per the standard listing agreement published by the Texas Association of Realtors.
+* Statistically the number of homes that actually sell because they are held open at an open house is super low. We’d rather focus on marketing your home to active and qualified buyers rather than opening your home to curious neighbors and passersby.
+* Prior to technology revolutionizing the industry, open houses were one of the only ways old fashioned agents had to market their listings. Today, active and qualified buyers are starting their search online, not spending time driving neighborhoods to find homes.
+* Open houses don’t sell houses, they are used primarily to allow agents to market themselves to prospective buyers.
 
+Agents are to log notes from the client meeting in ProsperWorks after the appointment.
 
