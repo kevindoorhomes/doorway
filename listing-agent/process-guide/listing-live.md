@@ -1,5 +1,7 @@
 # Onboarding A Listing
 
+**Goal: **
+
 Transaction Coordinators do most of the MLS input. However, the listing agent will need to complete a few tasks before setting the listing to Active.
 
 **Write the Property Description: **

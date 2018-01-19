@@ -1,5 +1,7 @@
 # Daily Tasks for a Door Listing Agent
 
+**Goal: **Keep clients up to date on the status of their listing and maintain a transparent log of communication to insure 
+
 Door is structured so that the listing agents are primarily in the office responding to clients, agents, and other parties involved in a real estate transaction. Much of our time is spent communicating with clients and negotiating offers. This section outlines ways in which listing agents communicate with clients, and manage other tasks throughout the week.
 
 ### **Weekly Client Communication**
@@ -30,7 +32,6 @@ In the showing report, the reports can be "open" or "collapsed" depending on per
 
 **Weekly Updates**
 
-  
 After the listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line.
 
 ![](/assets/Screen Shot 2018-01-18 at 2.47.44 PM.png)

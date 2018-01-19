@@ -1,5 +1,7 @@
 # New Opportunity
 
+**Goal:**
+
 An agent's opportunities in ProsperWorks are what make up their pipeline. Team Leads will monitor and manage the incoming flow of leads and assign them as needed among their team.
 
 The Team Lead will connect a listing agents to their clients for the first time via an Agent Introduction Email.

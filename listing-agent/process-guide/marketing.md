@@ -1,5 +1,7 @@
 # When Your Listing Is Active
 
+**Goal:**
+
 A big part of your role as a listing agent is client relations while a listing is live.
 
 Many of the day to day activities of a listing agent come from client communication and management of an active listing. Please reference the [Daily Activities - Sell ](/listing-agent/daily-activities.md)section for more detailed information about important listing management tasks.
@@ -24,15 +26,15 @@ Update the \#retargetting thread in slack with the following format:
 Send an email update through CSS and use information from the CSS showing report to contact any agent that had shown interest in the property.  
 ![](/assets/Screen Shot 2018-01-16 at 3.58.04 PM.png)
 
-It also helps to send personal emails to agents who specifically showed interest in the property. 
+It also helps to send personal emails to agents who specifically showed interest in the property.
 
 **Extending the terms of Listing Agreement**
 
 Sometimes, there are those properties that just don't sell as quickly as anticipated. In this instance, it is encouraged to speak with your client about extending the terms of their listing agreement starting 60 days out from the expiration date. If they agree, extend the expiration date of the Listing Agreement to the agreed upon date using the [TAR Amendment to Listing](http://www.sarealtywatch.com/wp-content/uploads/sites/230/2015/10/TX-Amendment-to-Listing-TAR-1404.pdf) form.
 
-If a client does not want to extend the listing agreement, then the listing will expire on the previously agreed upon date. The general goal at Door is to have less than X% of all listings expire. 
+If a client does not want to extend the listing agreement, then the listing will expire on the previously agreed upon date. The general goal at Door is to have less than X% of all listings expire.
 
-Reasons to encourage a client to extend a listing agreement might include: 
+Reasons to encourage a client to extend a listing agreement might include:
 
 * Recent price improvement to give the home more time on the market with the new price. 
 * Seasonality of the market. Extending before entering the busier market.

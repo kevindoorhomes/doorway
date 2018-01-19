@@ -24,5 +24,7 @@ This action will prompt a pop-up dialogue box asking for any final notes. This i
 
 ![](/assets/Screen Shot 2018-01-19 at 12.21.41 PM.png)
 
-Write a Thank
+**Write a Thank You Note**
+
+
 
