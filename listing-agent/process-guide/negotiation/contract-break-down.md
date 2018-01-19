@@ -4,9 +4,7 @@ The contracts that make up a real estate transaction are long and wordy, but it 
 
 In this section, you will find a few paragraphs broken down. We will be looking at some of the critical details of the contract that are the most important to clients as they negotiate offers.
 
-**Paragraph 1 **
-
-Paragraph 1 names the parties to the contract. Be sure to double check with your clients to confirm their legal names. If there have been recent marital changes, confirm who all needs to be named on the contract. ![](/assets/Screen Shot 2018-01-16 at 7.54.23 PM.png)
+**Paragraph 1 - Parties**![](/assets/09e20c38-86f3-4854-b2ad-46498bc4deb8.png)Paragraph 1 names the parties to the contract. Be sure to double check with your clients to confirm their legal names. If there have been recent marital changes, confirm who all needs to be named on the contract.
 
 **Paragraph 2.A**
 
