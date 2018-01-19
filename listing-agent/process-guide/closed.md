@@ -8,6 +8,8 @@ A realtor's three favorite words. You've closed! You crossed the finish line! Ch
 
 ![](/assets/Screen Shot 2018-01-15 at 1.40.38 PM.png)
 
+This action will prompt a pop-up dialogue box asking for any final notes. This is a great place to add notes on the seller's next move. ie: buying with Door, moving out of state, renting, if this was an investment property, etc.
+
 **Fill in all critical details in the left side column:**
 
 * Close Date
@@ -18,7 +20,9 @@ A realtor's three favorite words. You've closed! You crossed the finish line! Ch
 * Select is it's a Door Title referral
 * Select if it was a personal referral
 
-**Update the \#retargetting channel in Slack with the format:  `123 Main St, 75201 is closed`**
+**Update the \#retargetting channel in Slack with the format:  **
 
-&lt;screen grab&gt;
+![](/assets/Screen Shot 2018-01-19 at 12.21.41 PM.png)
+
+Write a Thank
 

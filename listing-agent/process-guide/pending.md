@@ -38,6 +38,8 @@ Subject: CDA Sell \| 123 Main St, 75201
 
 Please note: If the appraisal comes back during the pending phase, and you need to adjust the sales price, send a new, updated CDA as soon as possible.
 
+Double check the data that is entered into these emails. It is imperative that it is entered correctly the first time. 
+
 **Client Management while Pending**
 
 Maintain client communication by updating them with appraisal feedback, HOA document delivery, and other communication as needed.
@@ -51,4 +53,6 @@ Remember to log all communication and notes in ProsperWorks under the appropriat
 A week \(or so\) before closing, reach out to your client to determine their ideal closing time. Reach out to title to get this scheduled. It is good practice to cc your client on this communication to keep everyone on the same page.
 
 Once closing is scheduled, double check your files to make sure all addenda, amendments, and the Door Affiliated Business Agreement has been signed and/or delivered and properly filed.
+
+At this time, touch base with the buyer's agent to find out when they will close and arrange the delivery of keys, lease back checks, etc. 
 

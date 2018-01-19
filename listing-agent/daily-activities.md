@@ -12,7 +12,9 @@ Door’s product is a methodical and professional style of communication as much
 * **Active Option** - During the active option period, you will be communicating with your client heavily about repairs and confirming documents are being delivered by the date specified in the contract. 
 * **Pending** - Communication during the pending stage will be to discuss appraisals and schedule closing. Proactive communiaction during the pending stage will reassure clients their agents are on top of dates and documents as closing approaches. Put some extra effort into making sure your clients are aware of the work you are doing behind the scenes. This may be cc'ing them on an email to title to get closing scheduled, or sending a text letting them know you've reviewed the contract making sure nothing needs to be amended.
 
-**Calls during the Marketing Stage**
+### **Calls during the Marketing Stage**
+
+**Agent Feedback**
 
 When a listing is newly on the market, the primary client communication will be about feedback received from other agents. Use the [Centralized Showing Service](https://app.showings.com/Login) \(CSS\) website to track who has viewed the listing and the feedback received. If an agent doesn't provide any feedback, it is best practice to call them to get feedback for the seller. Typically, feedback is only received 20-30% of the time. Make it a habit to call agents and take notes on their feedback.
 
@@ -26,7 +28,10 @@ In the showing report, the reports can be "open" or "collapsed" depending on per
 
 ---
 
-After the listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report and a Showing Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line.
+**Weekly Updates**
+
+  
+After the listing has been active for a week, weekly updates will be available under the property address in DropBox. Onboarding prepares these for the listing agents. Each week a Property Report will be prepared. These documents are used to inform clients of how their property is performing online, and can help agents as they encourage price improvements down the line.
 
 ![](/assets/Screen Shot 2018-01-18 at 2.47.44 PM.png)
 
@@ -44,9 +49,15 @@ Subject: Weekly Updates \| 123 Main St, 75201
 
 ---
 
-Once a listing has been on the market or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. Visit the[ "Implementing a Price Improvement](/listing-agent/process-guide/marketing/implementing-a-price-improvement.md)" page for more detailed information about how this conversation looks.
+**Price Improvements**
+
+Once a listing has been on the market for a few weeks with little to no traffic/offers or has received negative feedback about the price, it will be time to revisit the original value and implement a price improvement. Visit the[ "Implementing a Price Improvement](/listing-agent/process-guide/marketing/implementing-a-price-improvement.md)" page for more detailed information about how this conversation looks.
+
+---
 
 ### Logging in ProsperWorks
+
+
 
 ---
 
