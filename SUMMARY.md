@@ -49,4 +49,5 @@
   * [F.A.Q Listing Agent](misc/faq-listing-agent.md)
   * [F.A.Q Buyers Agent](misc/faq-buyers-agent.md)
   * [F.A.Q Client Manager](misc/faq/faq-buyers-agent.md)
+  * [Naming Conventions](misc/naming-conventions.md)
 

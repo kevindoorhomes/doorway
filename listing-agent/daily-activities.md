@@ -52,5 +52,7 @@ Once a listing has been on the market or has received negative feedback about th
 
 ### DropBox and ProsperWorks Maintenance
 
+Logging communication and notes in ProsperWorks and filing documents correctly in DropBox are an important part of listing agents' job. Days get busy, and often times agents are handling multiple transactions at a time. If an agent doesn't have time to update ProsperWorks or file a document right away, it is important that they take time for data managment throughout the week. Take time each week to look through your Opportunities and DropBox to make sure all dates and files are up-to-date and correctly named.
 
+See the [Naming Conventions](/misc/naming-conventions.md) page for a detailed list of exactly how a document should be filed.
 
