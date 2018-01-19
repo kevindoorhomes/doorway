@@ -2,7 +2,7 @@
 
 Congrats! You just got an offer on your listing. Now what?
 
-ALL offers must be presented to clients in a timely manner. Unless your client requests to view all offers at a specific time, do everything you can to present offers shortly after they are received.
+ALL offers must be presented to clients in a timely manner. Unless the client requests to view all offers at a specific time, do everything you can to present offers shortly after they are received.
 
 In any case, treat all offers the same.
 
@@ -24,7 +24,7 @@ Fill out all critical details and attach offer documents. For more detail inform
 
 ![](/assets/Screen Shot 2018-01-15 at 10.36.34 AM.png)
 
-Fill out the Net Sheet. This will require some estimating on your past. Use the tools below to help.
+Fill out the Net Sheet. This will require some estimating on your part. Use the tools below to help.
 
 ![](/assets/Screen Shot 2018-01-16 at 4.39.53 PM.png)
 
@@ -42,7 +42,7 @@ Outline the critical details and log them as an offer in ProsperWorks. Make the 
 
 Include any additional details that may pertain to a specific offer. ie: leaseback option, HOA transfer contribution, etc.
 
-This step is important as it communicates to our Client Managers the status of the property.
+This step is important as it communicates to the Client Managers the status of the property.
 
 **Move the Opportunity to the Negotation column in ProsperWorks.**
 
@@ -66,7 +66,7 @@ Discuss an offer deadline with your clients. It is recommended that you send out
 
 ![](/assets/Screen Shot 2018-01-12 at 4.18.54 PM.png)
 
-From here, you and your clients will either negotiate one offer, or decide between the multiple offers received. When negotiating offers and making changes to contracts, double check that your client's have initialed all changes made to the original offers before sending it back to the buyer.
+From here, the agent and clients will either negotiate one offer, or decide between the multiple offers received. When negotiating offers and making changes to contracts, double check that the client's have initialed all changes made to the original offers before sending it back to the buyer.
 
 Now, it's time to execute a contract and move on to the [Active Option ](/listing-agent/process-guide/active-option.md)stage.
 
