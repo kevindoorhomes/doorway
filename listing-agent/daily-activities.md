@@ -1,6 +1,6 @@
 # Daily Tasks for a Door Listing Agent
 
-**Goal: **Keep clients up to date on the status of their listing and maintain a transparent log of communication to insure 
+**Goal: **Keep clients up to date on the status of their listing and maintain a transparent log of communication to insure
 
 Door is structured so that the listing agents are primarily in the office responding to clients, agents, and other parties involved in a real estate transaction. Much of our time is spent communicating with clients and negotiating offers. This section outlines ways in which listing agents communicate with clients, and manage other tasks throughout the week.
 
@@ -13,6 +13,8 @@ Door’s product is a methodical and professional style of communication as much
 * **Marketing** - Communication during marketing deserves a section all its own, and will be revisited later.
 * **Active Option** - During the active option period, you will be communicating with your client heavily about repairs and confirming documents are being delivered by the date specified in the contract. 
 * **Pending** - Communication during the pending stage will be to discuss appraisals and schedule closing. Proactive communiaction during the pending stage will reassure clients their agents are on top of dates and documents as closing approaches. Put some extra effort into making sure your clients are aware of the work you are doing behind the scenes. This may be cc'ing them on an email to title to get closing scheduled, or sending a text letting them know you've reviewed the contract making sure nothing needs to be amended.
+
+---
 
 ### **Calls during the Marketing Stage**
 

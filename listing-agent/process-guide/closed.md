@@ -24,7 +24,11 @@ This action will prompt a pop-up dialogue box asking for any final notes. This i
 
 ![](/assets/Screen Shot 2018-01-19 at 12.21.41 PM.png)
 
-**Write a Thank You Note**
+**Call client to congratulate them on their closing!**
 
+This is also a great time to mention that our company sends out a survey asking for their feedback. The 
 
+**Write a Thank You Note to the client.**
+
+**Call and thank the cooperating agent.**
 
