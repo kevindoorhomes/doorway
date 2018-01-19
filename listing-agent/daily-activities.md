@@ -60,7 +60,7 @@ Once a listing has been on the market for a few weeks with little to no traffic/
 
 ### Logging in ProsperWorks
 
-
+Logging calls, notes and other activities in ProsperWorks is important for many reasons. 
 
 ---
 
